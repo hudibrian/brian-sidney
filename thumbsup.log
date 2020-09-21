@@ -1,1 +1,1795 @@
-2020-09-21T23:01:40.069Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2020-09-21T23:33:26.588Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2020-09-21T23:33:52.934Z thumbsup:error Error processing Episode 1/IMG_1481.heic -> media/small/Episode 1/IMG_1481.jpg
+2020-09-21T23:33:52.934Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-F03WS82Xi1Yb-.jpg).
+2020-09-21T23:33:52.934Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:33:52.934Z thumbsup:error 
+2020-09-21T23:33:52.939Z thumbsup:error Error processing Episode 1/IMG_1481.heic -> media/large/Episode 1/IMG_1481.jpg
+2020-09-21T23:33:52.939Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4E1MoA9kyxFP-.jpg).
+2020-09-21T23:33:52.939Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:33:52.939Z thumbsup:error 
+2020-09-21T23:34:01.941Z thumbsup:error Error processing Episode 1/IMG_1483.heic -> media/small/Episode 1/IMG_1483.jpg
+2020-09-21T23:34:01.941Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jLWNHPrEirYl-.jpg).
+2020-09-21T23:34:01.941Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:01.941Z thumbsup:error 
+2020-09-21T23:34:01.947Z thumbsup:error Error processing Episode 1/IMG_1483.heic -> media/large/Episode 1/IMG_1483.jpg
+2020-09-21T23:34:01.947Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Rstk85mzKXWz-.jpg).
+2020-09-21T23:34:01.947Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:01.947Z thumbsup:error 
+2020-09-21T23:34:08.085Z thumbsup:error Error processing Episode 1/IMG_1484.heic -> media/small/Episode 1/IMG_1484.jpg
+2020-09-21T23:34:08.085Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-bQogb4UuX7UM-.jpg).
+2020-09-21T23:34:08.085Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:08.085Z thumbsup:error 
+2020-09-21T23:34:08.094Z thumbsup:error Error processing Episode 1/IMG_1484.heic -> media/large/Episode 1/IMG_1484.jpg
+2020-09-21T23:34:08.094Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-wmDG8jEtdDzF-.jpg).
+2020-09-21T23:34:08.094Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:08.094Z thumbsup:error 
+2020-09-21T23:34:15.383Z thumbsup:error Error processing Episode 1/IMG_1485.heic -> media/small/Episode 1/IMG_1485.jpg
+2020-09-21T23:34:15.383Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-TQyh9PxKhK7L-.jpg).
+2020-09-21T23:34:15.383Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:15.383Z thumbsup:error 
+2020-09-21T23:34:15.393Z thumbsup:error Error processing Episode 1/IMG_1485.heic -> media/large/Episode 1/IMG_1485.jpg
+2020-09-21T23:34:15.393Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-HerIJ7JVuegU-.jpg).
+2020-09-21T23:34:15.393Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:15.393Z thumbsup:error 
+2020-09-21T23:34:18.731Z thumbsup:error Error processing Episode 1/IMG_1527.heic -> media/small/Episode 1/IMG_1527.jpg
+2020-09-21T23:34:18.731Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1wENOIyMzwQ2-.jpg).
+2020-09-21T23:34:18.731Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:18.731Z thumbsup:error 
+2020-09-21T23:34:18.735Z thumbsup:error Error processing Episode 1/IMG_1527.heic -> media/large/Episode 1/IMG_1527.jpg
+2020-09-21T23:34:18.735Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3rpRIUQBREgz-.jpg).
+2020-09-21T23:34:18.735Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:18.735Z thumbsup:error 
+2020-09-21T23:34:22.198Z thumbsup:error Error processing Episode 1/IMG_1564.heic -> media/small/Episode 1/IMG_1564.jpg
+2020-09-21T23:34:22.198Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-mbQrso3cL3JC-.jpg).
+2020-09-21T23:34:22.198Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:22.198Z thumbsup:error 
+2020-09-21T23:34:22.202Z thumbsup:error Error processing Episode 1/IMG_1564.heic -> media/large/Episode 1/IMG_1564.jpg
+2020-09-21T23:34:22.202Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-2gQvkb897sSv-.jpg).
+2020-09-21T23:34:22.202Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:22.202Z thumbsup:error 
+2020-09-21T23:34:26.810Z thumbsup:error Error processing Episode 1/IMG_1565.heic -> media/small/Episode 1/IMG_1565.jpg
+2020-09-21T23:34:26.810Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-U03wtOMQ2o8Z-.jpg).
+2020-09-21T23:34:26.810Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:26.810Z thumbsup:error 
+2020-09-21T23:34:26.815Z thumbsup:error Error processing Episode 1/IMG_1565.heic -> media/large/Episode 1/IMG_1565.jpg
+2020-09-21T23:34:26.815Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-eh7u37s4jZ3m-.jpg).
+2020-09-21T23:34:26.815Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:26.815Z thumbsup:error 
+2020-09-21T23:34:30.823Z thumbsup:error Error processing Episode 1/IMG_1566.heic -> media/small/Episode 1/IMG_1566.jpg
+2020-09-21T23:34:30.823Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Rg1hDYXi4tk1-.jpg).
+2020-09-21T23:34:30.823Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:30.823Z thumbsup:error 
+2020-09-21T23:34:30.829Z thumbsup:error Error processing Episode 1/IMG_1566.heic -> media/large/Episode 1/IMG_1566.jpg
+2020-09-21T23:34:30.829Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ShPvwAQKPfaa-.jpg).
+2020-09-21T23:34:30.829Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:30.829Z thumbsup:error 
+2020-09-21T23:34:35.911Z thumbsup:error Error processing Episode 1/IMG_1569.heic -> media/small/Episode 1/IMG_1569.jpg
+2020-09-21T23:34:35.911Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-QMLdPzVM804q-.jpg).
+2020-09-21T23:34:35.911Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:35.911Z thumbsup:error 
+2020-09-21T23:34:35.915Z thumbsup:error Error processing Episode 1/IMG_1569.heic -> media/large/Episode 1/IMG_1569.jpg
+2020-09-21T23:34:35.915Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Hjgb59n8v4Xm-.jpg).
+2020-09-21T23:34:35.915Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:35.915Z thumbsup:error 
+2020-09-21T23:34:41.807Z thumbsup:error Error processing Episode 1/IMG_1570.heic -> media/small/Episode 1/IMG_1570.jpg
+2020-09-21T23:34:41.807Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3nRI30Q1ndBI-.jpg).
+2020-09-21T23:34:41.807Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:41.807Z thumbsup:error 
+2020-09-21T23:34:41.811Z thumbsup:error Error processing Episode 1/IMG_1570.heic -> media/large/Episode 1/IMG_1570.jpg
+2020-09-21T23:34:41.811Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-vBZueENn1lw7-.jpg).
+2020-09-21T23:34:41.811Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:41.811Z thumbsup:error 
+2020-09-21T23:34:45.114Z thumbsup:error Error processing Episode 1/IMG_1571.heic -> media/small/Episode 1/IMG_1571.jpg
+2020-09-21T23:34:45.114Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-uoMIESkIvl6K-.jpg).
+2020-09-21T23:34:45.114Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:45.114Z thumbsup:error 
+2020-09-21T23:34:45.138Z thumbsup:error Error processing Episode 1/IMG_1571.heic -> media/large/Episode 1/IMG_1571.jpg
+2020-09-21T23:34:45.138Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-XS38TG8YYKYn-.jpg).
+2020-09-21T23:34:45.138Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:45.138Z thumbsup:error 
+2020-09-21T23:34:48.342Z thumbsup:error Error processing Episode 1/IMG_1577.heic -> media/small/Episode 1/IMG_1577.jpg
+2020-09-21T23:34:48.342Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ih8BdxSdBsP0-.jpg).
+2020-09-21T23:34:48.342Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:48.342Z thumbsup:error 
+2020-09-21T23:34:48.346Z thumbsup:error Error processing Episode 1/IMG_1577.heic -> media/large/Episode 1/IMG_1577.jpg
+2020-09-21T23:34:48.346Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-hUSHflxlTyKJ-.jpg).
+2020-09-21T23:34:48.346Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:48.346Z thumbsup:error 
+2020-09-21T23:34:51.536Z thumbsup:error Error processing Episode 1/IMG_1578.heic -> media/small/Episode 1/IMG_1578.jpg
+2020-09-21T23:34:51.536Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1LNdwcHQDNFa-.jpg).
+2020-09-21T23:34:51.536Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:51.536Z thumbsup:error 
+2020-09-21T23:34:51.540Z thumbsup:error Error processing Episode 1/IMG_1578.heic -> media/large/Episode 1/IMG_1578.jpg
+2020-09-21T23:34:51.540Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Fx8Ui3XfjAub-.jpg).
+2020-09-21T23:34:51.540Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:34:51.540Z thumbsup:error 
+2020-09-21T23:35:04.311Z thumbsup:error Error processing Episode 1/IMG_1579.heic -> media/small/Episode 1/IMG_1579.jpg
+2020-09-21T23:35:04.311Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-z1HHvMDiGcjQ-.jpg).
+2020-09-21T23:35:04.311Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:35:04.311Z thumbsup:error 
+2020-09-21T23:35:04.316Z thumbsup:error Error processing Episode 1/IMG_1579.heic -> media/large/Episode 1/IMG_1579.jpg
+2020-09-21T23:35:04.316Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-BDdyJaIpZCfH-.jpg).
+2020-09-21T23:35:04.316Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:35:04.316Z thumbsup:error 
+2020-09-21T23:35:13.974Z thumbsup:error Error processing Episode 1/IMG_1580.heic -> media/small/Episode 1/IMG_1580.jpg
+2020-09-21T23:35:13.974Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-5QTrWGIDKPUA-.jpg).
+2020-09-21T23:35:13.974Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:35:13.974Z thumbsup:error 
+2020-09-21T23:35:13.979Z thumbsup:error Error processing Episode 1/IMG_1580.heic -> media/large/Episode 1/IMG_1580.jpg
+2020-09-21T23:35:13.979Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jgxcyAp9ZC73-.jpg).
+2020-09-21T23:35:13.979Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:35:13.979Z thumbsup:error 
+2020-09-21T23:36:02.352Z thumbsup:error Error processing Episode 1/IMG_1585.heic -> media/small/Episode 1/IMG_1585.jpg
+2020-09-21T23:36:02.352Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7cBqkk8kXNOg-.jpg).
+2020-09-21T23:36:02.352Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:02.352Z thumbsup:error 
+2020-09-21T23:36:02.357Z thumbsup:error Error processing Episode 1/IMG_1585.heic -> media/large/Episode 1/IMG_1585.jpg
+2020-09-21T23:36:02.357Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1bfRgAtcDvvh-.jpg).
+2020-09-21T23:36:02.357Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:02.357Z thumbsup:error 
+2020-09-21T23:36:09.216Z thumbsup:error Error processing Episode 1/IMG_1586.heic -> media/small/Episode 1/IMG_1586.jpg
+2020-09-21T23:36:09.216Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-oho1N2gOICMe-.jpg).
+2020-09-21T23:36:09.216Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:09.216Z thumbsup:error 
+2020-09-21T23:36:09.231Z thumbsup:error Error processing Episode 1/IMG_1586.heic -> media/large/Episode 1/IMG_1586.jpg
+2020-09-21T23:36:09.231Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-eMQ30Ces5TyL-.jpg).
+2020-09-21T23:36:09.231Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:09.231Z thumbsup:error 
+2020-09-21T23:36:24.938Z thumbsup:error Error processing Episode 1/IMG_1588.heic -> media/small/Episode 1/IMG_1588.jpg
+2020-09-21T23:36:24.938Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-DgY1U2hK3vuN-.jpg).
+2020-09-21T23:36:24.938Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:24.938Z thumbsup:error 
+2020-09-21T23:36:24.944Z thumbsup:error Error processing Episode 1/IMG_1588.heic -> media/large/Episode 1/IMG_1588.jpg
+2020-09-21T23:36:24.944Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1ajhnbVUpY95-.jpg).
+2020-09-21T23:36:24.944Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:24.944Z thumbsup:error 
+2020-09-21T23:36:35.717Z thumbsup:error Error processing Episode 1/IMG_1589.heic -> media/small/Episode 1/IMG_1589.jpg
+2020-09-21T23:36:35.717Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-0jmw8wo02tTb-.jpg).
+2020-09-21T23:36:35.717Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:35.717Z thumbsup:error 
+2020-09-21T23:36:35.723Z thumbsup:error Error processing Episode 1/IMG_1589.heic -> media/large/Episode 1/IMG_1589.jpg
+2020-09-21T23:36:35.723Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-BFjkqh0N6Rre-.jpg).
+2020-09-21T23:36:35.723Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:35.723Z thumbsup:error 
+2020-09-21T23:36:49.147Z thumbsup:error Error processing Episode 1/IMG_1590.heic -> media/small/Episode 1/IMG_1590.jpg
+2020-09-21T23:36:49.147Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-yefDP0IqV2pn-.jpg).
+2020-09-21T23:36:49.147Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:49.147Z thumbsup:error 
+2020-09-21T23:36:49.156Z thumbsup:error Error processing Episode 1/IMG_1590.heic -> media/large/Episode 1/IMG_1590.jpg
+2020-09-21T23:36:49.156Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-oMPWFWtqC1mw-.jpg).
+2020-09-21T23:36:49.156Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:36:49.156Z thumbsup:error 
+2020-09-21T23:37:15.405Z thumbsup:error Error processing Episode 1/IMG_1591.heic -> media/small/Episode 1/IMG_1591.jpg
+2020-09-21T23:37:15.405Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-77ywftog1QcF-.jpg).
+2020-09-21T23:37:15.405Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:15.405Z thumbsup:error 
+2020-09-21T23:37:15.411Z thumbsup:error Error processing Episode 1/IMG_1591.heic -> media/large/Episode 1/IMG_1591.jpg
+2020-09-21T23:37:15.411Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-78YLfrJZscNm-.jpg).
+2020-09-21T23:37:15.411Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:15.411Z thumbsup:error 
+2020-09-21T23:37:26.730Z thumbsup:error Error processing Episode 1/IMG_1592.heic -> media/small/Episode 1/IMG_1592.jpg
+2020-09-21T23:37:26.730Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Wob7Kvb1xKEk-.jpg).
+2020-09-21T23:37:26.730Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:26.730Z thumbsup:error 
+2020-09-21T23:37:26.735Z thumbsup:error Error processing Episode 1/IMG_1592.heic -> media/large/Episode 1/IMG_1592.jpg
+2020-09-21T23:37:26.735Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VKQHeVA71gxp-.jpg).
+2020-09-21T23:37:26.735Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:26.735Z thumbsup:error 
+2020-09-21T23:37:35.550Z thumbsup:error Error processing Episode 1/IMG_1608.heic -> media/small/Episode 1/IMG_1608.jpg
+2020-09-21T23:37:35.550Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-0wdl0FeMXZR4-.jpg).
+2020-09-21T23:37:35.550Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:35.550Z thumbsup:error 
+2020-09-21T23:37:35.553Z thumbsup:error Error processing Episode 1/IMG_1608.heic -> media/large/Episode 1/IMG_1608.jpg
+2020-09-21T23:37:35.553Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-QSU0du6qkhk4-.jpg).
+2020-09-21T23:37:35.553Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:35.553Z thumbsup:error 
+2020-09-21T23:37:41.441Z thumbsup:error Error processing Episode 1/IMG_1609.heic -> media/small/Episode 1/IMG_1609.jpg
+2020-09-21T23:37:41.441Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-CqFEkDI8yXiy-.jpg).
+2020-09-21T23:37:41.441Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:41.441Z thumbsup:error 
+2020-09-21T23:37:41.445Z thumbsup:error Error processing Episode 1/IMG_1609.heic -> media/large/Episode 1/IMG_1609.jpg
+2020-09-21T23:37:41.445Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-g3cHVccL116m-.jpg).
+2020-09-21T23:37:41.445Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:41.445Z thumbsup:error 
+2020-09-21T23:37:47.089Z thumbsup:error Error processing Episode 1/IMG_1610.heic -> media/small/Episode 1/IMG_1610.jpg
+2020-09-21T23:37:47.089Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-FO82e745fHGC-.jpg).
+2020-09-21T23:37:47.089Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:47.089Z thumbsup:error 
+2020-09-21T23:37:47.094Z thumbsup:error Error processing Episode 1/IMG_1610.heic -> media/large/Episode 1/IMG_1610.jpg
+2020-09-21T23:37:47.094Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-rtbqpbaIKiDK-.jpg).
+2020-09-21T23:37:47.094Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:47.094Z thumbsup:error 
+2020-09-21T23:37:59.788Z thumbsup:error Error processing Episode 1/IMG_1678.heic -> media/small/Episode 1/IMG_1678.jpg
+2020-09-21T23:37:59.788Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-tHvuOSOergIO-.jpg).
+2020-09-21T23:37:59.788Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:59.788Z thumbsup:error 
+2020-09-21T23:37:59.801Z thumbsup:error Error processing Episode 1/IMG_1678.heic -> media/large/Episode 1/IMG_1678.jpg
+2020-09-21T23:37:59.801Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jnJI67pZM1bU-.jpg).
+2020-09-21T23:37:59.801Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:37:59.801Z thumbsup:error 
+2020-09-21T23:38:04.474Z thumbsup:error Error processing Episode 1/IMG_1692.heic -> media/small/Episode 1/IMG_1692.jpg
+2020-09-21T23:38:04.474Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-NUTlj2AP4LYM-.jpg).
+2020-09-21T23:38:04.474Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:04.474Z thumbsup:error 
+2020-09-21T23:38:04.484Z thumbsup:error Error processing Episode 1/IMG_1692.heic -> media/large/Episode 1/IMG_1692.jpg
+2020-09-21T23:38:04.484Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GMpzPTLzyyaI-.jpg).
+2020-09-21T23:38:04.484Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:04.484Z thumbsup:error 
+2020-09-21T23:38:14.080Z thumbsup:error Error processing Episode 1/IMG_1693.heic -> media/small/Episode 1/IMG_1693.jpg
+2020-09-21T23:38:14.080Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-KNP8a0AHKRI7-.jpg).
+2020-09-21T23:38:14.080Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:14.080Z thumbsup:error 
+2020-09-21T23:38:14.084Z thumbsup:error Error processing Episode 1/IMG_1693.heic -> media/large/Episode 1/IMG_1693.jpg
+2020-09-21T23:38:14.084Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-iBEXmiYUi1Jd-.jpg).
+2020-09-21T23:38:14.084Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:14.084Z thumbsup:error 
+2020-09-21T23:38:17.326Z thumbsup:error Error processing Episode 1/IMG_1694.heic -> media/small/Episode 1/IMG_1694.jpg
+2020-09-21T23:38:17.326Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-SUS6SyWlI67s-.jpg).
+2020-09-21T23:38:17.326Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:17.326Z thumbsup:error 
+2020-09-21T23:38:17.331Z thumbsup:error Error processing Episode 1/IMG_1694.heic -> media/large/Episode 1/IMG_1694.jpg
+2020-09-21T23:38:17.331Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-rlwMeiu46lsD-.jpg).
+2020-09-21T23:38:17.331Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:17.331Z thumbsup:error 
+2020-09-21T23:38:20.651Z thumbsup:error Error processing Episode 1/IMG_1695.heic -> media/small/Episode 1/IMG_1695.jpg
+2020-09-21T23:38:20.651Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-b0Tkm2iUse6M-.jpg).
+2020-09-21T23:38:20.651Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:20.651Z thumbsup:error 
+2020-09-21T23:38:20.656Z thumbsup:error Error processing Episode 1/IMG_1695.heic -> media/large/Episode 1/IMG_1695.jpg
+2020-09-21T23:38:20.656Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jhsBfB9zY46n-.jpg).
+2020-09-21T23:38:20.656Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:20.656Z thumbsup:error 
+2020-09-21T23:38:26.143Z thumbsup:error Error processing Episode 1/IMG_1696.heic -> media/small/Episode 1/IMG_1696.jpg
+2020-09-21T23:38:26.143Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3IeHlHhBxEha-.jpg).
+2020-09-21T23:38:26.143Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:26.143Z thumbsup:error 
+2020-09-21T23:38:26.147Z thumbsup:error Error processing Episode 1/IMG_1696.heic -> media/large/Episode 1/IMG_1696.jpg
+2020-09-21T23:38:26.147Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-6KgyxmNJPROp-.jpg).
+2020-09-21T23:38:26.147Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:26.147Z thumbsup:error 
+2020-09-21T23:38:31.906Z thumbsup:error Error processing Episode 1/IMG_1697.heic -> media/small/Episode 1/IMG_1697.jpg
+2020-09-21T23:38:31.906Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-NW21MBiCM787-.jpg).
+2020-09-21T23:38:31.906Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:31.906Z thumbsup:error 
+2020-09-21T23:38:31.918Z thumbsup:error Error processing Episode 1/IMG_1697.heic -> media/large/Episode 1/IMG_1697.jpg
+2020-09-21T23:38:31.918Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-gDQthdBFMwWY-.jpg).
+2020-09-21T23:38:31.918Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:31.918Z thumbsup:error 
+2020-09-21T23:38:41.006Z thumbsup:error Error processing Episode 1/IMG_1698.heic -> media/small/Episode 1/IMG_1698.jpg
+2020-09-21T23:38:41.006Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-m65ZBOixtxjC-.jpg).
+2020-09-21T23:38:41.006Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:41.006Z thumbsup:error 
+2020-09-21T23:38:41.011Z thumbsup:error Error processing Episode 1/IMG_1698.heic -> media/large/Episode 1/IMG_1698.jpg
+2020-09-21T23:38:41.011Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-EzB3GFAlEj3w-.jpg).
+2020-09-21T23:38:41.011Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:41.011Z thumbsup:error 
+2020-09-21T23:38:44.465Z thumbsup:error Error processing Episode 1/IMG_1699.heic -> media/small/Episode 1/IMG_1699.jpg
+2020-09-21T23:38:44.465Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-dRfc4tyLychR-.jpg).
+2020-09-21T23:38:44.465Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:44.465Z thumbsup:error 
+2020-09-21T23:38:44.470Z thumbsup:error Error processing Episode 1/IMG_1699.heic -> media/large/Episode 1/IMG_1699.jpg
+2020-09-21T23:38:44.470Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-R5v4enJUcqvB-.jpg).
+2020-09-21T23:38:44.470Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:44.470Z thumbsup:error 
+2020-09-21T23:38:50.234Z thumbsup:error Error processing Episode 1/IMG_1708.heic -> media/small/Episode 1/IMG_1708.jpg
+2020-09-21T23:38:50.234Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-N26udNZDoqUD-.jpg).
+2020-09-21T23:38:50.234Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:50.234Z thumbsup:error 
+2020-09-21T23:38:50.239Z thumbsup:error Error processing Episode 1/IMG_1708.heic -> media/large/Episode 1/IMG_1708.jpg
+2020-09-21T23:38:50.239Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-vmVO8nqB2qd4-.jpg).
+2020-09-21T23:38:50.239Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:50.239Z thumbsup:error 
+2020-09-21T23:38:58.459Z thumbsup:error Error processing Episode 1/IMG_1709.heic -> media/small/Episode 1/IMG_1709.jpg
+2020-09-21T23:38:58.459Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-CX4XsGqIfEhC-.jpg).
+2020-09-21T23:38:58.459Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:58.459Z thumbsup:error 
+2020-09-21T23:38:58.463Z thumbsup:error Error processing Episode 1/IMG_1709.heic -> media/large/Episode 1/IMG_1709.jpg
+2020-09-21T23:38:58.463Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-kqqVTe51HMl4-.jpg).
+2020-09-21T23:38:58.463Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:38:58.463Z thumbsup:error 
+2020-09-21T23:39:01.814Z thumbsup:error Error processing Episode 1/IMG_1710.heic -> media/small/Episode 1/IMG_1710.jpg
+2020-09-21T23:39:01.814Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-hZGx5Hjogwox-.jpg).
+2020-09-21T23:39:01.814Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:01.814Z thumbsup:error 
+2020-09-21T23:39:01.819Z thumbsup:error Error processing Episode 1/IMG_1710.heic -> media/large/Episode 1/IMG_1710.jpg
+2020-09-21T23:39:01.819Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-sKypwtSNm2We-.jpg).
+2020-09-21T23:39:01.819Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:01.819Z thumbsup:error 
+2020-09-21T23:39:11.143Z thumbsup:error Error processing Episode 1/IMG_1716.heic -> media/small/Episode 1/IMG_1716.jpg
+2020-09-21T23:39:11.143Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-oQWt9cS63u8B-.jpg).
+2020-09-21T23:39:11.143Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:11.143Z thumbsup:error 
+2020-09-21T23:39:11.147Z thumbsup:error Error processing Episode 1/IMG_1716.heic -> media/large/Episode 1/IMG_1716.jpg
+2020-09-21T23:39:11.147Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-TZIMEjMMYpPg-.jpg).
+2020-09-21T23:39:11.147Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:11.147Z thumbsup:error 
+2020-09-21T23:39:19.251Z thumbsup:error Error processing Episode 1/IMG_1717.heic -> media/small/Episode 1/IMG_1717.jpg
+2020-09-21T23:39:19.251Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Eh38u72XhToS-.jpg).
+2020-09-21T23:39:19.251Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:19.251Z thumbsup:error 
+2020-09-21T23:39:19.255Z thumbsup:error Error processing Episode 1/IMG_1717.heic -> media/large/Episode 1/IMG_1717.jpg
+2020-09-21T23:39:19.255Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Cb9x3HQBErN4-.jpg).
+2020-09-21T23:39:19.255Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:19.255Z thumbsup:error 
+2020-09-21T23:39:22.341Z thumbsup:error Error processing Episode 1/IMG_1719.heic -> media/small/Episode 1/IMG_1719.jpg
+2020-09-21T23:39:22.341Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Jy73ND0SymNe-.jpg).
+2020-09-21T23:39:22.341Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:22.341Z thumbsup:error 
+2020-09-21T23:39:22.345Z thumbsup:error Error processing Episode 1/IMG_1719.heic -> media/large/Episode 1/IMG_1719.jpg
+2020-09-21T23:39:22.345Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ysCBb3Dx5tpr-.jpg).
+2020-09-21T23:39:22.345Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:22.345Z thumbsup:error 
+2020-09-21T23:39:27.907Z thumbsup:error Error processing Episode 1/IMG_1720.heic -> media/small/Episode 1/IMG_1720.jpg
+2020-09-21T23:39:27.907Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VjbWQfkgGAvI-.jpg).
+2020-09-21T23:39:27.907Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:27.907Z thumbsup:error 
+2020-09-21T23:39:27.911Z thumbsup:error Error processing Episode 1/IMG_1720.heic -> media/large/Episode 1/IMG_1720.jpg
+2020-09-21T23:39:27.911Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Ma9fDviZKyMM-.jpg).
+2020-09-21T23:39:27.911Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:27.911Z thumbsup:error 
+2020-09-21T23:39:33.580Z thumbsup:error Error processing Episode 1/IMG_1733.heic -> media/small/Episode 1/IMG_1733.jpg
+2020-09-21T23:39:33.580Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3YL8Q2Lq3Bhy-.jpg).
+2020-09-21T23:39:33.580Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:33.580Z thumbsup:error 
+2020-09-21T23:39:33.585Z thumbsup:error Error processing Episode 1/IMG_1733.heic -> media/large/Episode 1/IMG_1733.jpg
+2020-09-21T23:39:33.585Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VONQvS8tMvEB-.jpg).
+2020-09-21T23:39:33.585Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:33.585Z thumbsup:error 
+2020-09-21T23:39:39.172Z thumbsup:error Error processing Episode 1/IMG_1734.heic -> media/small/Episode 1/IMG_1734.jpg
+2020-09-21T23:39:39.172Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-uSYk8c9SynsO-.jpg).
+2020-09-21T23:39:39.172Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:39.172Z thumbsup:error 
+2020-09-21T23:39:39.177Z thumbsup:error Error processing Episode 1/IMG_1734.heic -> media/large/Episode 1/IMG_1734.jpg
+2020-09-21T23:39:39.177Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1YQstSLySIZz-.jpg).
+2020-09-21T23:39:39.177Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:39.177Z thumbsup:error 
+2020-09-21T23:39:44.688Z thumbsup:error Error processing Episode 1/IMG_1735.heic -> media/small/Episode 1/IMG_1735.jpg
+2020-09-21T23:39:44.688Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-NJhA1Zw3m0fh-.jpg).
+2020-09-21T23:39:44.688Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:44.688Z thumbsup:error 
+2020-09-21T23:39:44.692Z thumbsup:error Error processing Episode 1/IMG_1735.heic -> media/large/Episode 1/IMG_1735.jpg
+2020-09-21T23:39:44.692Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-JzwdN6pImYZX-.jpg).
+2020-09-21T23:39:44.692Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:44.692Z thumbsup:error 
+2020-09-21T23:39:53.532Z thumbsup:error Error processing Episode 1/IMG_1739.heic -> media/small/Episode 1/IMG_1739.jpg
+2020-09-21T23:39:53.532Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-m6Hcn36E9Dr7-.jpg).
+2020-09-21T23:39:53.532Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:53.532Z thumbsup:error 
+2020-09-21T23:39:53.538Z thumbsup:error Error processing Episode 1/IMG_1739.heic -> media/large/Episode 1/IMG_1739.jpg
+2020-09-21T23:39:53.538Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-xFlGbSHPtEDL-.jpg).
+2020-09-21T23:39:53.538Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:53.538Z thumbsup:error 
+2020-09-21T23:39:58.824Z thumbsup:error Error processing Episode 1/IMG_1780.heic -> media/small/Episode 1/IMG_1780.jpg
+2020-09-21T23:39:58.824Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-HJXL3JMBp0PX-.jpg).
+2020-09-21T23:39:58.824Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:58.824Z thumbsup:error 
+2020-09-21T23:39:58.828Z thumbsup:error Error processing Episode 1/IMG_1780.heic -> media/large/Episode 1/IMG_1780.jpg
+2020-09-21T23:39:58.828Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8xav2p5XTsvv-.jpg).
+2020-09-21T23:39:58.828Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:39:58.828Z thumbsup:error 
+2020-09-21T23:40:06.731Z thumbsup:error Error processing Episode 1/IMG_1781.heic -> media/small/Episode 1/IMG_1781.jpg
+2020-09-21T23:40:06.731Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-38DGB42WSS5v-.jpg).
+2020-09-21T23:40:06.731Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:06.731Z thumbsup:error 
+2020-09-21T23:40:06.735Z thumbsup:error Error processing Episode 1/IMG_1781.heic -> media/large/Episode 1/IMG_1781.jpg
+2020-09-21T23:40:06.735Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-h2x1c2C5CXzl-.jpg).
+2020-09-21T23:40:06.735Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:06.735Z thumbsup:error 
+2020-09-21T23:40:13.374Z thumbsup:error Error processing Episode 1/IMG_1782.heic -> media/small/Episode 1/IMG_1782.jpg
+2020-09-21T23:40:13.374Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-9eMx9oO7OJfJ-.jpg).
+2020-09-21T23:40:13.374Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:13.374Z thumbsup:error 
+2020-09-21T23:40:13.379Z thumbsup:error Error processing Episode 1/IMG_1782.heic -> media/large/Episode 1/IMG_1782.jpg
+2020-09-21T23:40:13.379Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-K0JIzysmB2jG-.jpg).
+2020-09-21T23:40:13.379Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:13.379Z thumbsup:error 
+2020-09-21T23:40:16.761Z thumbsup:error Error processing Episode 1/IMG_1792.heic -> media/small/Episode 1/IMG_1792.jpg
+2020-09-21T23:40:16.761Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-KTfaWFWCXDF9-.jpg).
+2020-09-21T23:40:16.761Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:16.761Z thumbsup:error 
+2020-09-21T23:40:16.766Z thumbsup:error Error processing Episode 1/IMG_1792.heic -> media/large/Episode 1/IMG_1792.jpg
+2020-09-21T23:40:16.766Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8iLhQxihr389-.jpg).
+2020-09-21T23:40:16.766Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:16.766Z thumbsup:error 
+2020-09-21T23:40:25.347Z thumbsup:error Error processing Episode 1/IMG_1799.heic -> media/small/Episode 1/IMG_1799.jpg
+2020-09-21T23:40:25.347Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jcu17IdWNmxa-.jpg).
+2020-09-21T23:40:25.347Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:25.347Z thumbsup:error 
+2020-09-21T23:40:25.355Z thumbsup:error Error processing Episode 1/IMG_1799.heic -> media/large/Episode 1/IMG_1799.jpg
+2020-09-21T23:40:25.355Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-dROoOnX537FZ-.jpg).
+2020-09-21T23:40:25.355Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:25.355Z thumbsup:error 
+2020-09-21T23:40:34.214Z thumbsup:error Error processing Episode 1/IMG_1800.heic -> media/small/Episode 1/IMG_1800.jpg
+2020-09-21T23:40:34.214Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-CBAHQ1pKatfN-.jpg).
+2020-09-21T23:40:34.214Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:34.214Z thumbsup:error 
+2020-09-21T23:40:34.218Z thumbsup:error Error processing Episode 1/IMG_1800.heic -> media/large/Episode 1/IMG_1800.jpg
+2020-09-21T23:40:34.218Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VzvNWqp7O5sD-.jpg).
+2020-09-21T23:40:34.218Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:34.218Z thumbsup:error 
+2020-09-21T23:40:39.479Z thumbsup:error Error processing Episode 1/IMG_1802.heic -> media/small/Episode 1/IMG_1802.jpg
+2020-09-21T23:40:39.479Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Hugx8W6R1oYi-.jpg).
+2020-09-21T23:40:39.479Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:39.479Z thumbsup:error 
+2020-09-21T23:40:39.485Z thumbsup:error Error processing Episode 1/IMG_1802.heic -> media/large/Episode 1/IMG_1802.jpg
+2020-09-21T23:40:39.485Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7jlpVaGxD28e-.jpg).
+2020-09-21T23:40:39.485Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:39.485Z thumbsup:error 
+2020-09-21T23:40:49.605Z thumbsup:error Error processing Episode 1/IMG_1803.heic -> media/small/Episode 1/IMG_1803.jpg
+2020-09-21T23:40:49.605Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-WWzGRxjwMSJO-.jpg).
+2020-09-21T23:40:49.605Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:49.605Z thumbsup:error 
+2020-09-21T23:40:49.614Z thumbsup:error Error processing Episode 1/IMG_1803.heic -> media/large/Episode 1/IMG_1803.jpg
+2020-09-21T23:40:49.614Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-9DYVt4ayWBJP-.jpg).
+2020-09-21T23:40:49.614Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:49.614Z thumbsup:error 
+2020-09-21T23:40:54.766Z thumbsup:error Error processing Episode 1/IMG_1813.heic -> media/small/Episode 1/IMG_1813.jpg
+2020-09-21T23:40:54.766Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-15p09eIHrna3-.jpg).
+2020-09-21T23:40:54.766Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:54.766Z thumbsup:error 
+2020-09-21T23:40:54.770Z thumbsup:error Error processing Episode 1/IMG_1813.heic -> media/large/Episode 1/IMG_1813.jpg
+2020-09-21T23:40:54.770Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-DOo3iYfc9G67-.jpg).
+2020-09-21T23:40:54.770Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:40:54.770Z thumbsup:error 
+2020-09-21T23:41:01.376Z thumbsup:error Error processing Episode 1/IMG_1814.heic -> media/small/Episode 1/IMG_1814.jpg
+2020-09-21T23:41:01.376Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Z2yaWG2Vgypw-.jpg).
+2020-09-21T23:41:01.376Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:01.376Z thumbsup:error 
+2020-09-21T23:41:01.381Z thumbsup:error Error processing Episode 1/IMG_1814.heic -> media/large/Episode 1/IMG_1814.jpg
+2020-09-21T23:41:01.381Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-NA4mRTxwIBRY-.jpg).
+2020-09-21T23:41:01.381Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:01.381Z thumbsup:error 
+2020-09-21T23:41:12.250Z thumbsup:error Error processing Episode 1/IMG_1817.heic -> media/small/Episode 1/IMG_1817.jpg
+2020-09-21T23:41:12.250Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-mTsDb0GZ5V76-.jpg).
+2020-09-21T23:41:12.250Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:12.250Z thumbsup:error 
+2020-09-21T23:41:12.261Z thumbsup:error Error processing Episode 1/IMG_1817.heic -> media/large/Episode 1/IMG_1817.jpg
+2020-09-21T23:41:12.261Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1TXoNRnPkjJJ-.jpg).
+2020-09-21T23:41:12.261Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:12.261Z thumbsup:error 
+2020-09-21T23:41:17.623Z thumbsup:error Error processing Episode 1/IMG_2072.heic -> media/small/Episode 1/IMG_2072.jpg
+2020-09-21T23:41:17.623Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-dJ3s1iryy5gr-.jpg).
+2020-09-21T23:41:17.623Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:17.623Z thumbsup:error 
+2020-09-21T23:41:17.628Z thumbsup:error Error processing Episode 1/IMG_2072.heic -> media/large/Episode 1/IMG_2072.jpg
+2020-09-21T23:41:17.628Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7d9GF1GQ4GHc-.jpg).
+2020-09-21T23:41:17.628Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:17.628Z thumbsup:error 
+2020-09-21T23:41:22.117Z thumbsup:error Error processing Episode 1/IMG_2155.heic -> media/small/Episode 1/IMG_2155.jpg
+2020-09-21T23:41:22.117Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-6kE8kWVDtnqp-.jpg).
+2020-09-21T23:41:22.117Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:22.117Z thumbsup:error 
+2020-09-21T23:41:22.122Z thumbsup:error Error processing Episode 1/IMG_2155.heic -> media/large/Episode 1/IMG_2155.jpg
+2020-09-21T23:41:22.122Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-hdKRtmRCmEzq-.jpg).
+2020-09-21T23:41:22.122Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:22.122Z thumbsup:error 
+2020-09-21T23:41:27.655Z thumbsup:error Error processing Episode 1/IMG_2156.heic -> media/small/Episode 1/IMG_2156.jpg
+2020-09-21T23:41:27.655Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-QOMdknwBhhy3-.jpg).
+2020-09-21T23:41:27.655Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:27.655Z thumbsup:error 
+2020-09-21T23:41:27.660Z thumbsup:error Error processing Episode 1/IMG_2156.heic -> media/large/Episode 1/IMG_2156.jpg
+2020-09-21T23:41:27.660Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-rQ4roxJzVMKI-.jpg).
+2020-09-21T23:41:27.660Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:27.660Z thumbsup:error 
+2020-09-21T23:41:35.184Z thumbsup:error Error processing Episode 1/IMG_2183.heic -> media/small/Episode 1/IMG_2183.jpg
+2020-09-21T23:41:35.184Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-g7GoPuxD8SIE-.jpg).
+2020-09-21T23:41:35.184Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:35.184Z thumbsup:error 
+2020-09-21T23:41:35.189Z thumbsup:error Error processing Episode 1/IMG_2183.heic -> media/large/Episode 1/IMG_2183.jpg
+2020-09-21T23:41:35.189Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-puAPIewqUx4a-.jpg).
+2020-09-21T23:41:35.189Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:35.189Z thumbsup:error 
+2020-09-21T23:41:38.569Z thumbsup:error Error processing Episode 1/IMG_3173.heic -> media/small/Episode 1/IMG_3173.jpg
+2020-09-21T23:41:38.569Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-9HzMiykJatpA-.jpg).
+2020-09-21T23:41:38.569Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:38.569Z thumbsup:error 
+2020-09-21T23:41:38.574Z thumbsup:error Error processing Episode 1/IMG_3173.heic -> media/large/Episode 1/IMG_3173.jpg
+2020-09-21T23:41:38.574Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4Fq0iNTzIwuD-.jpg).
+2020-09-21T23:41:38.574Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:38.574Z thumbsup:error 
+2020-09-21T23:41:44.467Z thumbsup:error Error processing Episode 1/IMG_3174.heic -> media/small/Episode 1/IMG_3174.jpg
+2020-09-21T23:41:44.467Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-EoCKhgtIG3hm-.jpg).
+2020-09-21T23:41:44.467Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:44.467Z thumbsup:error 
+2020-09-21T23:41:44.472Z thumbsup:error Error processing Episode 1/IMG_3174.heic -> media/large/Episode 1/IMG_3174.jpg
+2020-09-21T23:41:44.472Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-O4BmGPXY3EXM-.jpg).
+2020-09-21T23:41:44.472Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:44.472Z thumbsup:error 
+2020-09-21T23:41:52.816Z thumbsup:error Error processing Episode 1/IMG_3175.heic -> media/small/Episode 1/IMG_3175.jpg
+2020-09-21T23:41:52.816Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-DxTE6t30gyCL-.jpg).
+2020-09-21T23:41:52.816Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:52.816Z thumbsup:error 
+2020-09-21T23:41:52.820Z thumbsup:error Error processing Episode 1/IMG_3175.heic -> media/large/Episode 1/IMG_3175.jpg
+2020-09-21T23:41:52.820Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-rN4EpyfIfix6-.jpg).
+2020-09-21T23:41:52.820Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:52.820Z thumbsup:error 
+2020-09-21T23:41:56.207Z thumbsup:error Error processing Episode 1/IMG_3176.heic -> media/small/Episode 1/IMG_3176.jpg
+2020-09-21T23:41:56.207Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-s7Q2hiuUezpL-.jpg).
+2020-09-21T23:41:56.207Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:56.207Z thumbsup:error 
+2020-09-21T23:41:56.212Z thumbsup:error Error processing Episode 1/IMG_3176.heic -> media/large/Episode 1/IMG_3176.jpg
+2020-09-21T23:41:56.212Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-pT1H7VSefLVi-.jpg).
+2020-09-21T23:41:56.212Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:41:56.212Z thumbsup:error 
+2020-09-21T23:42:02.585Z thumbsup:error Error processing Episode 1/IMG_3181.heic -> media/small/Episode 1/IMG_3181.jpg
+2020-09-21T23:42:02.585Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-J963J6Ez50my-.jpg).
+2020-09-21T23:42:02.585Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:02.585Z thumbsup:error 
+2020-09-21T23:42:02.589Z thumbsup:error Error processing Episode 1/IMG_3181.heic -> media/large/Episode 1/IMG_3181.jpg
+2020-09-21T23:42:02.589Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Di0bAi93X9YQ-.jpg).
+2020-09-21T23:42:02.589Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:02.589Z thumbsup:error 
+2020-09-21T23:42:05.964Z thumbsup:error Error processing Episode 1/IMG_3182.heic -> media/small/Episode 1/IMG_3182.jpg
+2020-09-21T23:42:05.964Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-dKut9dl0rstE-.jpg).
+2020-09-21T23:42:05.964Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:05.964Z thumbsup:error 
+2020-09-21T23:42:05.968Z thumbsup:error Error processing Episode 1/IMG_3182.heic -> media/large/Episode 1/IMG_3182.jpg
+2020-09-21T23:42:05.968Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Y3nbj9Em2ihd-.jpg).
+2020-09-21T23:42:05.968Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:05.968Z thumbsup:error 
+2020-09-21T23:42:18.153Z thumbsup:error Error processing Episode 1/IMG_3293.heic -> media/small/Episode 1/IMG_3293.jpg
+2020-09-21T23:42:18.153Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-TnYBOP8GDkSx-.jpg).
+2020-09-21T23:42:18.153Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:18.153Z thumbsup:error 
+2020-09-21T23:42:18.168Z thumbsup:error Error processing Episode 1/IMG_3293.heic -> media/large/Episode 1/IMG_3293.jpg
+2020-09-21T23:42:18.168Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-su0QzbmP96Qx-.jpg).
+2020-09-21T23:42:18.168Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:18.168Z thumbsup:error 
+2020-09-21T23:42:23.174Z thumbsup:error Error processing Episode 1/IMG_3295.heic -> media/small/Episode 1/IMG_3295.jpg
+2020-09-21T23:42:23.174Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4HTDh34NXeKK-.jpg).
+2020-09-21T23:42:23.174Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:23.174Z thumbsup:error 
+2020-09-21T23:42:23.184Z thumbsup:error Error processing Episode 1/IMG_3295.heic -> media/large/Episode 1/IMG_3295.jpg
+2020-09-21T23:42:23.184Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-vtdi12uL6K6G-.jpg).
+2020-09-21T23:42:23.184Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:23.184Z thumbsup:error 
+2020-09-21T23:42:28.249Z thumbsup:error Error processing Episode 1/IMG_3296.heic -> media/small/Episode 1/IMG_3296.jpg
+2020-09-21T23:42:28.249Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-fcvREkzPSN9j-.jpg).
+2020-09-21T23:42:28.249Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:28.249Z thumbsup:error 
+2020-09-21T23:42:28.253Z thumbsup:error Error processing Episode 1/IMG_3296.heic -> media/large/Episode 1/IMG_3296.jpg
+2020-09-21T23:42:28.253Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-AyeimiOyrHsL-.jpg).
+2020-09-21T23:42:28.253Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:28.253Z thumbsup:error 
+2020-09-21T23:42:33.143Z thumbsup:error Error processing Episode 1/IMG_3298.heic -> media/small/Episode 1/IMG_3298.jpg
+2020-09-21T23:42:33.143Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-kOg4W9X6ID7z-.jpg).
+2020-09-21T23:42:33.143Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:33.143Z thumbsup:error 
+2020-09-21T23:42:33.146Z thumbsup:error Error processing Episode 1/IMG_3298.heic -> media/large/Episode 1/IMG_3298.jpg
+2020-09-21T23:42:33.146Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-2wZZ3hd5y2og-.jpg).
+2020-09-21T23:42:33.146Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:33.146Z thumbsup:error 
+2020-09-21T23:42:40.307Z thumbsup:error Error processing Episode 1/IMG_3299.heic -> media/small/Episode 1/IMG_3299.jpg
+2020-09-21T23:42:40.307Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-pMjGsFjbd3A7-.jpg).
+2020-09-21T23:42:40.307Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:40.307Z thumbsup:error 
+2020-09-21T23:42:40.312Z thumbsup:error Error processing Episode 1/IMG_3299.heic -> media/large/Episode 1/IMG_3299.jpg
+2020-09-21T23:42:40.312Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-lbERexYv0LSb-.jpg).
+2020-09-21T23:42:40.312Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:40.312Z thumbsup:error 
+2020-09-21T23:42:43.115Z thumbsup:error Error processing Episode 1/IMG_3416.heic -> media/small/Episode 1/IMG_3416.jpg
+2020-09-21T23:42:43.115Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-E3pFLiwtXeuW-.jpg).
+2020-09-21T23:42:43.115Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:43.115Z thumbsup:error 
+2020-09-21T23:42:43.121Z thumbsup:error Error processing Episode 1/IMG_3416.heic -> media/large/Episode 1/IMG_3416.jpg
+2020-09-21T23:42:43.121Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-WXeWL5WZAvzi-.jpg).
+2020-09-21T23:42:43.121Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:43.121Z thumbsup:error 
+2020-09-21T23:42:49.297Z thumbsup:error Error processing Episode 1/IMG_3650.heic -> media/small/Episode 1/IMG_3650.jpg
+2020-09-21T23:42:49.297Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-eHmCawjDiZiF-.jpg).
+2020-09-21T23:42:49.297Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:49.297Z thumbsup:error 
+2020-09-21T23:42:49.303Z thumbsup:error Error processing Episode 1/IMG_3650.heic -> media/large/Episode 1/IMG_3650.jpg
+2020-09-21T23:42:49.303Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4462wMzI5HBe-.jpg).
+2020-09-21T23:42:49.303Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:49.303Z thumbsup:error 
+2020-09-21T23:42:54.987Z thumbsup:error Error processing Episode 1/IMG_3651.heic -> media/small/Episode 1/IMG_3651.jpg
+2020-09-21T23:42:54.987Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-bFx5MCKQOYtb-.jpg).
+2020-09-21T23:42:54.987Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:54.987Z thumbsup:error 
+2020-09-21T23:42:55.001Z thumbsup:error Error processing Episode 1/IMG_3651.heic -> media/large/Episode 1/IMG_3651.jpg
+2020-09-21T23:42:55.001Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3Dmi0uM8U4ms-.jpg).
+2020-09-21T23:42:55.001Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:55.001Z thumbsup:error 
+2020-09-21T23:42:58.860Z thumbsup:error Error processing Episode 1/IMG_3652.heic -> media/small/Episode 1/IMG_3652.jpg
+2020-09-21T23:42:58.860Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-yH1VPXvfbvhu-.jpg).
+2020-09-21T23:42:58.860Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:58.860Z thumbsup:error 
+2020-09-21T23:42:58.879Z thumbsup:error Error processing Episode 1/IMG_3652.heic -> media/large/Episode 1/IMG_3652.jpg
+2020-09-21T23:42:58.879Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-p0EmVk9RG488-.jpg).
+2020-09-21T23:42:58.879Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:42:58.879Z thumbsup:error 
+2020-09-21T23:43:03.707Z thumbsup:error Error processing Episode 1/IMG_3653.heic -> media/small/Episode 1/IMG_3653.jpg
+2020-09-21T23:43:03.707Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-D4BcGHTT2Ayr-.jpg).
+2020-09-21T23:43:03.707Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:03.707Z thumbsup:error 
+2020-09-21T23:43:03.713Z thumbsup:error Error processing Episode 1/IMG_3653.heic -> media/large/Episode 1/IMG_3653.jpg
+2020-09-21T23:43:03.713Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-sm8f42z6oiQ2-.jpg).
+2020-09-21T23:43:03.713Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:03.713Z thumbsup:error 
+2020-09-21T23:43:08.628Z thumbsup:error Error processing Episode 1/IMG_3654.heic -> media/small/Episode 1/IMG_3654.jpg
+2020-09-21T23:43:08.628Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-YIWaZe4NDLAz-.jpg).
+2020-09-21T23:43:08.628Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:08.628Z thumbsup:error 
+2020-09-21T23:43:08.633Z thumbsup:error Error processing Episode 1/IMG_3654.heic -> media/large/Episode 1/IMG_3654.jpg
+2020-09-21T23:43:08.633Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ppKmQKRRUgXe-.jpg).
+2020-09-21T23:43:08.633Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:08.633Z thumbsup:error 
+2020-09-21T23:43:16.067Z thumbsup:error Error processing Episode 1/IMG_3655.heic -> media/small/Episode 1/IMG_3655.jpg
+2020-09-21T23:43:16.067Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-e573FVGJihsr-.jpg).
+2020-09-21T23:43:16.067Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:16.067Z thumbsup:error 
+2020-09-21T23:43:16.071Z thumbsup:error Error processing Episode 1/IMG_3655.heic -> media/large/Episode 1/IMG_3655.jpg
+2020-09-21T23:43:16.071Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Xm7wobGdPSJk-.jpg).
+2020-09-21T23:43:16.071Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:16.071Z thumbsup:error 
+2020-09-21T23:43:19.243Z thumbsup:error Error processing Episode 1/IMG_3656.heic -> media/small/Episode 1/IMG_3656.jpg
+2020-09-21T23:43:19.243Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ejNzpD9Dqn6t-.jpg).
+2020-09-21T23:43:19.243Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:19.243Z thumbsup:error 
+2020-09-21T23:43:19.248Z thumbsup:error Error processing Episode 1/IMG_3656.heic -> media/large/Episode 1/IMG_3656.jpg
+2020-09-21T23:43:19.248Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8tQngUxpq9tZ-.jpg).
+2020-09-21T23:43:19.248Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:19.248Z thumbsup:error 
+2020-09-21T23:43:25.058Z thumbsup:error Error processing Episode 1/IMG_3703.heic -> media/small/Episode 1/IMG_3703.jpg
+2020-09-21T23:43:25.058Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-qN070DkH6O6p-.jpg).
+2020-09-21T23:43:25.058Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:25.058Z thumbsup:error 
+2020-09-21T23:43:25.062Z thumbsup:error Error processing Episode 1/IMG_3703.heic -> media/large/Episode 1/IMG_3703.jpg
+2020-09-21T23:43:25.062Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ydj1ctajOHae-.jpg).
+2020-09-21T23:43:25.062Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:25.062Z thumbsup:error 
+2020-09-21T23:43:28.222Z thumbsup:error Error processing Episode 1/IMG_3851.heic -> media/small/Episode 1/IMG_3851.jpg
+2020-09-21T23:43:28.222Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-aKcKdhMXG48j-.jpg).
+2020-09-21T23:43:28.222Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:28.222Z thumbsup:error 
+2020-09-21T23:43:28.226Z thumbsup:error Error processing Episode 1/IMG_3851.heic -> media/large/Episode 1/IMG_3851.jpg
+2020-09-21T23:43:28.226Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-MUu4CKAHiCjQ-.jpg).
+2020-09-21T23:43:28.226Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:28.226Z thumbsup:error 
+2020-09-21T23:43:32.569Z thumbsup:error Error processing Episode 1/IMG_3853.heic -> media/small/Episode 1/IMG_3853.jpg
+2020-09-21T23:43:32.569Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-BTWtX9UDw0EU-.jpg).
+2020-09-21T23:43:32.569Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:32.569Z thumbsup:error 
+2020-09-21T23:43:32.574Z thumbsup:error Error processing Episode 1/IMG_3853.heic -> media/large/Episode 1/IMG_3853.jpg
+2020-09-21T23:43:32.574Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-iL16D7bEaXz4-.jpg).
+2020-09-21T23:43:32.574Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:32.574Z thumbsup:error 
+2020-09-21T23:43:40.145Z thumbsup:error Error processing Episode 1/IMG_5057.heic -> media/small/Episode 1/IMG_5057.jpg
+2020-09-21T23:43:40.145Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-WmhEr2HZ4OAm-.jpg).
+2020-09-21T23:43:40.145Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:40.145Z thumbsup:error 
+2020-09-21T23:43:40.149Z thumbsup:error Error processing Episode 1/IMG_5057.heic -> media/large/Episode 1/IMG_5057.jpg
+2020-09-21T23:43:40.149Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-bA9D0VM93Zlu-.jpg).
+2020-09-21T23:43:40.149Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:40.149Z thumbsup:error 
+2020-09-21T23:43:43.336Z thumbsup:error Error processing Episode 1/IMG_5058.heic -> media/small/Episode 1/IMG_5058.jpg
+2020-09-21T23:43:43.336Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-N5fQiyv37d61-.jpg).
+2020-09-21T23:43:43.336Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:43.336Z thumbsup:error 
+2020-09-21T23:43:43.340Z thumbsup:error Error processing Episode 1/IMG_5058.heic -> media/large/Episode 1/IMG_5058.jpg
+2020-09-21T23:43:43.340Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-zoIqP3CiD6Gz-.jpg).
+2020-09-21T23:43:43.340Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:43.340Z thumbsup:error 
+2020-09-21T23:43:47.810Z thumbsup:error Error processing Episode 1/IMG_5072.heic -> media/small/Episode 1/IMG_5072.jpg
+2020-09-21T23:43:47.810Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8r8FaaRLYCW5-.jpg).
+2020-09-21T23:43:47.810Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:47.810Z thumbsup:error 
+2020-09-21T23:43:47.814Z thumbsup:error Error processing Episode 1/IMG_5072.heic -> media/large/Episode 1/IMG_5072.jpg
+2020-09-21T23:43:47.814Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4FV38QEaKyQq-.jpg).
+2020-09-21T23:43:47.814Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:47.814Z thumbsup:error 
+2020-09-21T23:43:52.192Z thumbsup:error Error processing Episode 1/IMG_5080.heic -> media/small/Episode 1/IMG_5080.jpg
+2020-09-21T23:43:52.192Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ePle5zXtOaZR-.jpg).
+2020-09-21T23:43:52.192Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:52.192Z thumbsup:error 
+2020-09-21T23:43:52.196Z thumbsup:error Error processing Episode 1/IMG_5080.heic -> media/large/Episode 1/IMG_5080.jpg
+2020-09-21T23:43:52.196Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-eflvExFrOS5O-.jpg).
+2020-09-21T23:43:52.196Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:52.196Z thumbsup:error 
+2020-09-21T23:43:57.212Z thumbsup:error Error processing Episode 1/IMG_5081.heic -> media/small/Episode 1/IMG_5081.jpg
+2020-09-21T23:43:57.212Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-kV5H22mBa2C7-.jpg).
+2020-09-21T23:43:57.212Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:57.212Z thumbsup:error 
+2020-09-21T23:43:57.216Z thumbsup:error Error processing Episode 1/IMG_5081.heic -> media/large/Episode 1/IMG_5081.jpg
+2020-09-21T23:43:57.216Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1o5q6xKBBsfi-.jpg).
+2020-09-21T23:43:57.216Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:43:57.216Z thumbsup:error 
+2020-09-21T23:44:00.328Z thumbsup:error Error processing Episode 1/IMG_5086.heic -> media/small/Episode 1/IMG_5086.jpg
+2020-09-21T23:44:00.328Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VDUEsX7bApw4-.jpg).
+2020-09-21T23:44:00.328Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:00.328Z thumbsup:error 
+2020-09-21T23:44:00.333Z thumbsup:error Error processing Episode 1/IMG_5086.heic -> media/large/Episode 1/IMG_5086.jpg
+2020-09-21T23:44:00.333Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-x7BfJc7a9sl0-.jpg).
+2020-09-21T23:44:00.333Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:00.333Z thumbsup:error 
+2020-09-21T23:44:05.941Z thumbsup:error Error processing Episode 1/IMG_5087.heic -> media/small/Episode 1/IMG_5087.jpg
+2020-09-21T23:44:05.941Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Yjv25IRAqJb3-.jpg).
+2020-09-21T23:44:05.941Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:05.941Z thumbsup:error 
+2020-09-21T23:44:05.945Z thumbsup:error Error processing Episode 1/IMG_5087.heic -> media/large/Episode 1/IMG_5087.jpg
+2020-09-21T23:44:05.945Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-QIQ7GaxzPqPt-.jpg).
+2020-09-21T23:44:05.945Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:05.945Z thumbsup:error 
+2020-09-21T23:44:11.077Z thumbsup:error Error processing Episode 1/IMG_5179.heic -> media/small/Episode 1/IMG_5179.jpg
+2020-09-21T23:44:11.077Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-vHaPQW8Y0dx1-.jpg).
+2020-09-21T23:44:11.077Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:11.077Z thumbsup:error 
+2020-09-21T23:44:11.086Z thumbsup:error Error processing Episode 1/IMG_5179.heic -> media/large/Episode 1/IMG_5179.jpg
+2020-09-21T23:44:11.086Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7pUteGJjm0bl-.jpg).
+2020-09-21T23:44:11.086Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:11.086Z thumbsup:error 
+2020-09-21T23:44:16.079Z thumbsup:error Error processing Episode 1/IMG_5180.heic -> media/small/Episode 1/IMG_5180.jpg
+2020-09-21T23:44:16.079Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jCIZKAIYX2uU-.jpg).
+2020-09-21T23:44:16.079Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:16.079Z thumbsup:error 
+2020-09-21T23:44:16.084Z thumbsup:error Error processing Episode 1/IMG_5180.heic -> media/large/Episode 1/IMG_5180.jpg
+2020-09-21T23:44:16.084Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7GoimS2u4htI-.jpg).
+2020-09-21T23:44:16.084Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:16.084Z thumbsup:error 
+2020-09-21T23:44:19.346Z thumbsup:error Error processing Episode 1/IMG_5181.heic -> media/small/Episode 1/IMG_5181.jpg
+2020-09-21T23:44:19.346Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-b8wOkQyMdAAj-.jpg).
+2020-09-21T23:44:19.346Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:19.346Z thumbsup:error 
+2020-09-21T23:44:19.350Z thumbsup:error Error processing Episode 1/IMG_5181.heic -> media/large/Episode 1/IMG_5181.jpg
+2020-09-21T23:44:19.350Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ky9PslAmisHR-.jpg).
+2020-09-21T23:44:19.350Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:19.350Z thumbsup:error 
+2020-09-21T23:44:23.430Z thumbsup:error Error processing Episode 1/IMG_5185.heic -> media/small/Episode 1/IMG_5185.jpg
+2020-09-21T23:44:23.430Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-KBLeSsqOzlYk-.jpg).
+2020-09-21T23:44:23.430Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:23.430Z thumbsup:error 
+2020-09-21T23:44:23.434Z thumbsup:error Error processing Episode 1/IMG_5185.heic -> media/large/Episode 1/IMG_5185.jpg
+2020-09-21T23:44:23.434Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4ycKeXKVTpNN-.jpg).
+2020-09-21T23:44:23.434Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:23.434Z thumbsup:error 
+2020-09-21T23:44:27.789Z thumbsup:error Error processing Episode 1/IMG_5186.heic -> media/small/Episode 1/IMG_5186.jpg
+2020-09-21T23:44:27.789Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-yy0vCWhKrXsO-.jpg).
+2020-09-21T23:44:27.789Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:27.789Z thumbsup:error 
+2020-09-21T23:44:27.793Z thumbsup:error Error processing Episode 1/IMG_5186.heic -> media/large/Episode 1/IMG_5186.jpg
+2020-09-21T23:44:27.793Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-NwchWpVcb6dx-.jpg).
+2020-09-21T23:44:27.793Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:27.793Z thumbsup:error 
+2020-09-21T23:44:32.854Z thumbsup:error Error processing Episode 1/IMG_5188.heic -> media/small/Episode 1/IMG_5188.jpg
+2020-09-21T23:44:32.854Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-CYSZIl74xMVi-.jpg).
+2020-09-21T23:44:32.854Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:32.854Z thumbsup:error 
+2020-09-21T23:44:32.858Z thumbsup:error Error processing Episode 1/IMG_5188.heic -> media/large/Episode 1/IMG_5188.jpg
+2020-09-21T23:44:32.858Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-p8EUrkHNMVQV-.jpg).
+2020-09-21T23:44:32.858Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:32.858Z thumbsup:error 
+2020-09-21T23:44:36.371Z thumbsup:error Error processing Episode 1/IMG_5292.heic -> media/small/Episode 1/IMG_5292.jpg
+2020-09-21T23:44:36.371Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jGyKNLAPMRBZ-.jpg).
+2020-09-21T23:44:36.371Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:36.371Z thumbsup:error 
+2020-09-21T23:44:36.375Z thumbsup:error Error processing Episode 1/IMG_5292.heic -> media/large/Episode 1/IMG_5292.jpg
+2020-09-21T23:44:36.375Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8N3JeGyHv2xY-.jpg).
+2020-09-21T23:44:36.375Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:36.375Z thumbsup:error 
+2020-09-21T23:44:41.461Z thumbsup:error Error processing Episode 1/IMG_5293.heic -> media/small/Episode 1/IMG_5293.jpg
+2020-09-21T23:44:41.461Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-HBelCIWRRioM-.jpg).
+2020-09-21T23:44:41.461Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:41.461Z thumbsup:error 
+2020-09-21T23:44:41.465Z thumbsup:error Error processing Episode 1/IMG_5293.heic -> media/large/Episode 1/IMG_5293.jpg
+2020-09-21T23:44:41.465Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-v82MxmI3Bx2T-.jpg).
+2020-09-21T23:44:41.465Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:41.465Z thumbsup:error 
+2020-09-21T23:44:45.926Z thumbsup:error Error processing Episode 1/IMG_5294.heic -> media/small/Episode 1/IMG_5294.jpg
+2020-09-21T23:44:45.926Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-d59nC1ahHJLk-.jpg).
+2020-09-21T23:44:45.926Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:45.926Z thumbsup:error 
+2020-09-21T23:44:45.930Z thumbsup:error Error processing Episode 1/IMG_5294.heic -> media/large/Episode 1/IMG_5294.jpg
+2020-09-21T23:44:45.930Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-aGjNMQHVCYlU-.jpg).
+2020-09-21T23:44:45.930Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:45.930Z thumbsup:error 
+2020-09-21T23:44:51.471Z thumbsup:error Error processing Episode 1/IMG_5295.heic -> media/small/Episode 1/IMG_5295.jpg
+2020-09-21T23:44:51.471Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-wBggUVF3AwRq-.jpg).
+2020-09-21T23:44:51.471Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:51.471Z thumbsup:error 
+2020-09-21T23:44:51.481Z thumbsup:error Error processing Episode 1/IMG_5295.heic -> media/large/Episode 1/IMG_5295.jpg
+2020-09-21T23:44:51.481Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1pOE0cdJihTL-.jpg).
+2020-09-21T23:44:51.481Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:51.481Z thumbsup:error 
+2020-09-21T23:44:54.848Z thumbsup:error Error processing Episode 1/IMG_5296.heic -> media/small/Episode 1/IMG_5296.jpg
+2020-09-21T23:44:54.848Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-rAPLPqwCAl7c-.jpg).
+2020-09-21T23:44:54.848Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:54.848Z thumbsup:error 
+2020-09-21T23:44:54.852Z thumbsup:error Error processing Episode 1/IMG_5296.heic -> media/large/Episode 1/IMG_5296.jpg
+2020-09-21T23:44:54.852Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-45xXJDAfDDSx-.jpg).
+2020-09-21T23:44:54.852Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:54.852Z thumbsup:error 
+2020-09-21T23:44:59.895Z thumbsup:error Error processing Episode 1/IMG_5297.heic -> media/small/Episode 1/IMG_5297.jpg
+2020-09-21T23:44:59.895Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3ipU95QJQcx1-.jpg).
+2020-09-21T23:44:59.895Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:59.895Z thumbsup:error 
+2020-09-21T23:44:59.904Z thumbsup:error Error processing Episode 1/IMG_5297.heic -> media/large/Episode 1/IMG_5297.jpg
+2020-09-21T23:44:59.904Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-qSRzWJq64PnI-.jpg).
+2020-09-21T23:44:59.904Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:44:59.904Z thumbsup:error 
+2020-09-21T23:45:04.604Z thumbsup:error Error processing Episode 1/IMG_5298.heic -> media/small/Episode 1/IMG_5298.jpg
+2020-09-21T23:45:04.604Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GcNijwHMB1Gw-.jpg).
+2020-09-21T23:45:04.604Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:04.604Z thumbsup:error 
+2020-09-21T23:45:04.610Z thumbsup:error Error processing Episode 1/IMG_5298.heic -> media/large/Episode 1/IMG_5298.jpg
+2020-09-21T23:45:04.610Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-laO5YeU2PoQl-.jpg).
+2020-09-21T23:45:04.610Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:04.610Z thumbsup:error 
+2020-09-21T23:45:10.462Z thumbsup:error Error processing Episode 1/IMG_5386.heic -> media/small/Episode 1/IMG_5386.jpg
+2020-09-21T23:45:10.462Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-obaEJugr9aDP-.jpg).
+2020-09-21T23:45:10.462Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:10.462Z thumbsup:error 
+2020-09-21T23:45:10.468Z thumbsup:error Error processing Episode 1/IMG_5386.heic -> media/large/Episode 1/IMG_5386.jpg
+2020-09-21T23:45:10.468Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-J4sG7shlypmw-.jpg).
+2020-09-21T23:45:10.468Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:10.468Z thumbsup:error 
+2020-09-21T23:45:13.665Z thumbsup:error Error processing Episode 1/IMG_5406(1).heic -> media/small/Episode 1/IMG_5406(1).jpg
+2020-09-21T23:45:13.665Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1PU3TRIPkPTj-.jpg).
+2020-09-21T23:45:13.665Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:13.665Z thumbsup:error 
+2020-09-21T23:45:13.669Z thumbsup:error Error processing Episode 1/IMG_5406(1).heic -> media/large/Episode 1/IMG_5406(1).jpg
+2020-09-21T23:45:13.669Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-zivXDqXd5kmW-.jpg).
+2020-09-21T23:45:13.669Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:13.669Z thumbsup:error 
+2020-09-21T23:45:20.114Z thumbsup:error Error processing Episode 1/IMG_5406.heic -> media/small/Episode 1/IMG_5406.jpg
+2020-09-21T23:45:20.114Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-u8OD932rE4Tw-.jpg).
+2020-09-21T23:45:20.114Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:20.114Z thumbsup:error 
+2020-09-21T23:45:20.118Z thumbsup:error Error processing Episode 1/IMG_5406.heic -> media/large/Episode 1/IMG_5406.jpg
+2020-09-21T23:45:20.118Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-kyjz3Xu7ClMP-.jpg).
+2020-09-21T23:45:20.118Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:20.118Z thumbsup:error 
+2020-09-21T23:45:25.304Z thumbsup:error Error processing Episode 1/IMG_5407.heic -> media/small/Episode 1/IMG_5407.jpg
+2020-09-21T23:45:25.304Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-0EtcohQJ0N7s-.jpg).
+2020-09-21T23:45:25.304Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:25.304Z thumbsup:error 
+2020-09-21T23:45:25.313Z thumbsup:error Error processing Episode 1/IMG_5407.heic -> media/large/Episode 1/IMG_5407.jpg
+2020-09-21T23:45:25.313Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-wtZ0JrCLIoIO-.jpg).
+2020-09-21T23:45:25.313Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:25.313Z thumbsup:error 
+2020-09-21T23:45:34.904Z thumbsup:error Error processing Episode 1/IMG_5417(1).heic -> media/small/Episode 1/IMG_5417(1).jpg
+2020-09-21T23:45:34.904Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Fn1B7EwyIVy1-.jpg).
+2020-09-21T23:45:34.904Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:34.904Z thumbsup:error 
+2020-09-21T23:45:34.909Z thumbsup:error Error processing Episode 1/IMG_5417(1).heic -> media/large/Episode 1/IMG_5417(1).jpg
+2020-09-21T23:45:34.909Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-PLlOsbpClajT-.jpg).
+2020-09-21T23:45:34.909Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:34.909Z thumbsup:error 
+2020-09-21T23:45:42.560Z thumbsup:error Error processing Episode 1/IMG_5417.heic -> media/small/Episode 1/IMG_5417.jpg
+2020-09-21T23:45:42.560Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Fc7tkkWJl00a-.jpg).
+2020-09-21T23:45:42.560Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:42.560Z thumbsup:error 
+2020-09-21T23:45:42.564Z thumbsup:error Error processing Episode 1/IMG_5417.heic -> media/large/Episode 1/IMG_5417.jpg
+2020-09-21T23:45:42.564Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4tP7QoRGX0Zk-.jpg).
+2020-09-21T23:45:42.564Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:42.564Z thumbsup:error 
+2020-09-21T23:45:46.063Z thumbsup:error Error processing Episode 1/IMG_5418.heic -> media/small/Episode 1/IMG_5418.jpg
+2020-09-21T23:45:46.063Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ZNC8wtMWMXg3-.jpg).
+2020-09-21T23:45:46.063Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:46.063Z thumbsup:error 
+2020-09-21T23:45:46.067Z thumbsup:error Error processing Episode 1/IMG_5418.heic -> media/large/Episode 1/IMG_5418.jpg
+2020-09-21T23:45:46.067Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-5pw7bDnLVkJy-.jpg).
+2020-09-21T23:45:46.067Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:46.067Z thumbsup:error 
+2020-09-21T23:45:52.850Z thumbsup:error Error processing Episode 1/IMG_5419.heic -> media/small/Episode 1/IMG_5419.jpg
+2020-09-21T23:45:52.850Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-bEiZ4biu1o01-.jpg).
+2020-09-21T23:45:52.850Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:52.850Z thumbsup:error 
+2020-09-21T23:45:52.861Z thumbsup:error Error processing Episode 1/IMG_5419.heic -> media/large/Episode 1/IMG_5419.jpg
+2020-09-21T23:45:52.861Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-JXzwKKp2VPrK-.jpg).
+2020-09-21T23:45:52.861Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:52.861Z thumbsup:error 
+2020-09-21T23:45:56.241Z thumbsup:error Error processing Episode 1/IMG_5420.heic -> media/small/Episode 1/IMG_5420.jpg
+2020-09-21T23:45:56.241Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-HTEJZ0Ies2Wc-.jpg).
+2020-09-21T23:45:56.241Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:56.241Z thumbsup:error 
+2020-09-21T23:45:56.245Z thumbsup:error Error processing Episode 1/IMG_5420.heic -> media/large/Episode 1/IMG_5420.jpg
+2020-09-21T23:45:56.245Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ldto20zLbcRU-.jpg).
+2020-09-21T23:45:56.245Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:45:56.245Z thumbsup:error 
+2020-09-21T23:46:01.840Z thumbsup:error Error processing Episode 1/IMG_5421.heic -> media/small/Episode 1/IMG_5421.jpg
+2020-09-21T23:46:01.840Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VADCdoWOvHPm-.jpg).
+2020-09-21T23:46:01.840Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:01.840Z thumbsup:error 
+2020-09-21T23:46:01.845Z thumbsup:error Error processing Episode 1/IMG_5421.heic -> media/large/Episode 1/IMG_5421.jpg
+2020-09-21T23:46:01.845Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-MvEbHYBjxP7k-.jpg).
+2020-09-21T23:46:01.845Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:01.845Z thumbsup:error 
+2020-09-21T23:46:05.995Z thumbsup:error Error processing Episode 1/IMG_5422.heic -> media/small/Episode 1/IMG_5422.jpg
+2020-09-21T23:46:05.995Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-qm4xkZaO7J45-.jpg).
+2020-09-21T23:46:05.995Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:05.995Z thumbsup:error 
+2020-09-21T23:46:05.999Z thumbsup:error Error processing Episode 1/IMG_5422.heic -> media/large/Episode 1/IMG_5422.jpg
+2020-09-21T23:46:05.999Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-FLnU8Qy72luk-.jpg).
+2020-09-21T23:46:05.999Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:05.999Z thumbsup:error 
+2020-09-21T23:46:11.625Z thumbsup:error Error processing Episode 1/IMG_5423.heic -> media/small/Episode 1/IMG_5423.jpg
+2020-09-21T23:46:11.625Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-I2Sa1LORmzXr-.jpg).
+2020-09-21T23:46:11.625Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:11.625Z thumbsup:error 
+2020-09-21T23:46:11.630Z thumbsup:error Error processing Episode 1/IMG_5423.heic -> media/large/Episode 1/IMG_5423.jpg
+2020-09-21T23:46:11.630Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-pP5oar5enGb5-.jpg).
+2020-09-21T23:46:11.630Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:11.630Z thumbsup:error 
+2020-09-21T23:46:15.007Z thumbsup:error Error processing Episode 1/IMG_5435.heic -> media/small/Episode 1/IMG_5435.jpg
+2020-09-21T23:46:15.007Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-mjEZaLhIVaNq-.jpg).
+2020-09-21T23:46:15.007Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:15.007Z thumbsup:error 
+2020-09-21T23:46:15.017Z thumbsup:error Error processing Episode 1/IMG_5435.heic -> media/large/Episode 1/IMG_5435.jpg
+2020-09-21T23:46:15.017Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ZGv57xPE8p28-.jpg).
+2020-09-21T23:46:15.017Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:15.017Z thumbsup:error 
+2020-09-21T23:46:20.013Z thumbsup:error Error processing Episode 1/IMG_5436.heic -> media/small/Episode 1/IMG_5436.jpg
+2020-09-21T23:46:20.013Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-FzpF6f9dAH4p-.jpg).
+2020-09-21T23:46:20.013Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:20.013Z thumbsup:error 
+2020-09-21T23:46:20.017Z thumbsup:error Error processing Episode 1/IMG_5436.heic -> media/large/Episode 1/IMG_5436.jpg
+2020-09-21T23:46:20.017Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8rk7zUbdxq3V-.jpg).
+2020-09-21T23:46:20.017Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:20.017Z thumbsup:error 
+2020-09-21T23:46:23.387Z thumbsup:error Error processing Episode 1/IMG_5437.heic -> media/small/Episode 1/IMG_5437.jpg
+2020-09-21T23:46:23.387Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-zA8u2wsgOk9l-.jpg).
+2020-09-21T23:46:23.387Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:23.387Z thumbsup:error 
+2020-09-21T23:46:23.394Z thumbsup:error Error processing Episode 1/IMG_5437.heic -> media/large/Episode 1/IMG_5437.jpg
+2020-09-21T23:46:23.394Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Z5F4kVF3cwsy-.jpg).
+2020-09-21T23:46:23.394Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:23.394Z thumbsup:error 
+2020-09-21T23:46:29.766Z thumbsup:error Error processing Episode 1/IMG_5438.heic -> media/small/Episode 1/IMG_5438.jpg
+2020-09-21T23:46:29.766Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7BeueYKKb6ul-.jpg).
+2020-09-21T23:46:29.766Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:29.766Z thumbsup:error 
+2020-09-21T23:46:29.770Z thumbsup:error Error processing Episode 1/IMG_5438.heic -> media/large/Episode 1/IMG_5438.jpg
+2020-09-21T23:46:29.770Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-6m02fxMA4sIp-.jpg).
+2020-09-21T23:46:29.770Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:29.770Z thumbsup:error 
+2020-09-21T23:46:32.945Z thumbsup:error Error processing Episode 1/IMG_5445.heic -> media/small/Episode 1/IMG_5445.jpg
+2020-09-21T23:46:32.945Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-XO9nkNrjAJk6-.jpg).
+2020-09-21T23:46:32.945Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:32.945Z thumbsup:error 
+2020-09-21T23:46:32.949Z thumbsup:error Error processing Episode 1/IMG_5445.heic -> media/large/Episode 1/IMG_5445.jpg
+2020-09-21T23:46:32.949Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-nL4JC4UH6dID-.jpg).
+2020-09-21T23:46:32.949Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:32.949Z thumbsup:error 
+2020-09-21T23:46:36.283Z thumbsup:error Error processing Episode 1/IMG_5446.heic -> media/small/Episode 1/IMG_5446.jpg
+2020-09-21T23:46:36.283Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-BQuFqlhyN4mx-.jpg).
+2020-09-21T23:46:36.283Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:36.283Z thumbsup:error 
+2020-09-21T23:46:36.287Z thumbsup:error Error processing Episode 1/IMG_5446.heic -> media/large/Episode 1/IMG_5446.jpg
+2020-09-21T23:46:36.287Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-DlubbWRXdJlC-.jpg).
+2020-09-21T23:46:36.287Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:36.287Z thumbsup:error 
+2020-09-21T23:46:41.136Z thumbsup:error Error processing Episode 1/IMG_5447.heic -> media/small/Episode 1/IMG_5447.jpg
+2020-09-21T23:46:41.136Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-H1R5Re3wHv7H-.jpg).
+2020-09-21T23:46:41.136Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:41.136Z thumbsup:error 
+2020-09-21T23:46:41.141Z thumbsup:error Error processing Episode 1/IMG_5447.heic -> media/large/Episode 1/IMG_5447.jpg
+2020-09-21T23:46:41.141Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ABxFARx1X2EA-.jpg).
+2020-09-21T23:46:41.141Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:41.141Z thumbsup:error 
+2020-09-21T23:46:45.977Z thumbsup:error Error processing Episode 1/IMG_5448.heic -> media/small/Episode 1/IMG_5448.jpg
+2020-09-21T23:46:45.977Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-dgZPpS3B61sK-.jpg).
+2020-09-21T23:46:45.977Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:45.977Z thumbsup:error 
+2020-09-21T23:46:45.981Z thumbsup:error Error processing Episode 1/IMG_5448.heic -> media/large/Episode 1/IMG_5448.jpg
+2020-09-21T23:46:45.981Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Grr07cSlp2ZT-.jpg).
+2020-09-21T23:46:45.981Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:45.981Z thumbsup:error 
+2020-09-21T23:46:49.318Z thumbsup:error Error processing Episode 1/IMG_5449.heic -> media/small/Episode 1/IMG_5449.jpg
+2020-09-21T23:46:49.318Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-xcTadQvnQllE-.jpg).
+2020-09-21T23:46:49.318Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:49.318Z thumbsup:error 
+2020-09-21T23:46:49.322Z thumbsup:error Error processing Episode 1/IMG_5449.heic -> media/large/Episode 1/IMG_5449.jpg
+2020-09-21T23:46:49.322Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-lyBihBOl0hUe-.jpg).
+2020-09-21T23:46:49.322Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:49.322Z thumbsup:error 
+2020-09-21T23:46:52.787Z thumbsup:error Error processing Episode 1/IMG_5453.heic -> media/small/Episode 1/IMG_5453.jpg
+2020-09-21T23:46:52.787Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jGf7zUZCpiVo-.jpg).
+2020-09-21T23:46:52.787Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:52.787Z thumbsup:error 
+2020-09-21T23:46:52.791Z thumbsup:error Error processing Episode 1/IMG_5453.heic -> media/large/Episode 1/IMG_5453.jpg
+2020-09-21T23:46:52.791Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-H5VfdIPdK2QH-.jpg).
+2020-09-21T23:46:52.791Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:52.791Z thumbsup:error 
+2020-09-21T23:46:57.617Z thumbsup:error Error processing Episode 1/IMG_5588.heic -> media/small/Episode 1/IMG_5588.jpg
+2020-09-21T23:46:57.617Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-5noC8Nk6HcLB-.jpg).
+2020-09-21T23:46:57.617Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:57.617Z thumbsup:error 
+2020-09-21T23:46:57.621Z thumbsup:error Error processing Episode 1/IMG_5588.heic -> media/large/Episode 1/IMG_5588.jpg
+2020-09-21T23:46:57.621Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-82HMxB6s25w0-.jpg).
+2020-09-21T23:46:57.621Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:46:57.621Z thumbsup:error 
+2020-09-21T23:47:03.461Z thumbsup:error Error processing Episode 1/IMG_5593.heic -> media/small/Episode 1/IMG_5593.jpg
+2020-09-21T23:47:03.461Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-hnOhWSYUAiwc-.jpg).
+2020-09-21T23:47:03.461Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:03.461Z thumbsup:error 
+2020-09-21T23:47:03.474Z thumbsup:error Error processing Episode 1/IMG_5593.heic -> media/large/Episode 1/IMG_5593.jpg
+2020-09-21T23:47:03.474Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-f6RgeG9ozZAo-.jpg).
+2020-09-21T23:47:03.474Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:03.474Z thumbsup:error 
+2020-09-21T23:47:06.715Z thumbsup:error Error processing Episode 1/IMG_5598.heic -> media/small/Episode 1/IMG_5598.jpg
+2020-09-21T23:47:06.715Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-540sHd4z0ny4-.jpg).
+2020-09-21T23:47:06.715Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:06.715Z thumbsup:error 
+2020-09-21T23:47:06.718Z thumbsup:error Error processing Episode 1/IMG_5598.heic -> media/large/Episode 1/IMG_5598.jpg
+2020-09-21T23:47:06.718Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-U1b0pHcg0z6u-.jpg).
+2020-09-21T23:47:06.718Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:06.718Z thumbsup:error 
+2020-09-21T23:47:11.245Z thumbsup:error Error processing Episode 1/IMG_5599.heic -> media/small/Episode 1/IMG_5599.jpg
+2020-09-21T23:47:11.245Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8PaDuNJM1M5y-.jpg).
+2020-09-21T23:47:11.245Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:11.245Z thumbsup:error 
+2020-09-21T23:47:11.250Z thumbsup:error Error processing Episode 1/IMG_5599.heic -> media/large/Episode 1/IMG_5599.jpg
+2020-09-21T23:47:11.250Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GkMKAjia4DNL-.jpg).
+2020-09-21T23:47:11.250Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:11.250Z thumbsup:error 
+2020-09-21T23:47:14.438Z thumbsup:error Error processing Episode 1/IMG_5601.heic -> media/small/Episode 1/IMG_5601.jpg
+2020-09-21T23:47:14.438Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-OWMSBzFxZogF-.jpg).
+2020-09-21T23:47:14.438Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:14.438Z thumbsup:error 
+2020-09-21T23:47:14.442Z thumbsup:error Error processing Episode 1/IMG_5601.heic -> media/large/Episode 1/IMG_5601.jpg
+2020-09-21T23:47:14.442Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-xdf64hBBapoU-.jpg).
+2020-09-21T23:47:14.442Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:14.442Z thumbsup:error 
+2020-09-21T23:47:20.991Z thumbsup:error Error processing Episode 1/IMG_5609.heic -> media/small/Episode 1/IMG_5609.jpg
+2020-09-21T23:47:20.991Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-0hnfNrwWI7yG-.jpg).
+2020-09-21T23:47:20.991Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:20.991Z thumbsup:error 
+2020-09-21T23:47:20.998Z thumbsup:error Error processing Episode 1/IMG_5609.heic -> media/large/Episode 1/IMG_5609.jpg
+2020-09-21T23:47:20.998Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VbbAyeQuVXxu-.jpg).
+2020-09-21T23:47:20.998Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:20.998Z thumbsup:error 
+2020-09-21T23:47:24.215Z thumbsup:error Error processing Episode 1/IMG_5610.heic -> media/small/Episode 1/IMG_5610.jpg
+2020-09-21T23:47:24.215Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3nOm1SV3vOHN-.jpg).
+2020-09-21T23:47:24.215Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:24.215Z thumbsup:error 
+2020-09-21T23:47:24.219Z thumbsup:error Error processing Episode 1/IMG_5610.heic -> media/large/Episode 1/IMG_5610.jpg
+2020-09-21T23:47:24.219Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-9sJifPEql4P2-.jpg).
+2020-09-21T23:47:24.219Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:24.219Z thumbsup:error 
+2020-09-21T23:47:28.899Z thumbsup:error Error processing Episode 1/IMG_5611.heic -> media/small/Episode 1/IMG_5611.jpg
+2020-09-21T23:47:28.899Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-i5LteycHoYWH-.jpg).
+2020-09-21T23:47:28.899Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:28.899Z thumbsup:error 
+2020-09-21T23:47:28.903Z thumbsup:error Error processing Episode 1/IMG_5611.heic -> media/large/Episode 1/IMG_5611.jpg
+2020-09-21T23:47:28.903Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-s3LJy3s5Gl1f-.jpg).
+2020-09-21T23:47:28.903Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:28.903Z thumbsup:error 
+2020-09-21T23:47:36.086Z thumbsup:error Error processing Episode 1/IMG_5612.heic -> media/small/Episode 1/IMG_5612.jpg
+2020-09-21T23:47:36.086Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8W1YSIdRN6eP-.jpg).
+2020-09-21T23:47:36.086Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:36.086Z thumbsup:error 
+2020-09-21T23:47:36.090Z thumbsup:error Error processing Episode 1/IMG_5612.heic -> media/large/Episode 1/IMG_5612.jpg
+2020-09-21T23:47:36.090Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-fqBU6W5tWvZs-.jpg).
+2020-09-21T23:47:36.090Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:36.090Z thumbsup:error 
+2020-09-21T23:47:39.282Z thumbsup:error Error processing Episode 1/IMG_5617.heic -> media/small/Episode 1/IMG_5617.jpg
+2020-09-21T23:47:39.282Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-giZ19DSCRP4P-.jpg).
+2020-09-21T23:47:39.282Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:39.282Z thumbsup:error 
+2020-09-21T23:47:39.286Z thumbsup:error Error processing Episode 1/IMG_5617.heic -> media/large/Episode 1/IMG_5617.jpg
+2020-09-21T23:47:39.286Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-FmoDYQ75CtQ0-.jpg).
+2020-09-21T23:47:39.286Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:39.286Z thumbsup:error 
+2020-09-21T23:47:42.422Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1127.heic -> media/small/ThePrequals/Episode 3/IMG_1127.jpg
+2020-09-21T23:47:42.422Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-JPcQ5K6OBy4z-.jpg).
+2020-09-21T23:47:42.422Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:42.422Z thumbsup:error 
+2020-09-21T23:47:42.427Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1127.heic -> media/large/ThePrequals/Episode 3/IMG_1127.jpg
+2020-09-21T23:47:42.427Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-B0Z7ppm7bLNw-.jpg).
+2020-09-21T23:47:42.427Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:42.427Z thumbsup:error 
+2020-09-21T23:47:45.629Z thumbsup:error Error processing Episode 1/IMG_5618.heic -> media/small/Episode 1/IMG_5618.jpg
+2020-09-21T23:47:45.629Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-j3ltevha2AUH-.jpg).
+2020-09-21T23:47:45.629Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:45.629Z thumbsup:error 
+2020-09-21T23:47:45.634Z thumbsup:error Error processing Episode 1/IMG_5618.heic -> media/large/Episode 1/IMG_5618.jpg
+2020-09-21T23:47:45.634Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-CQTURXaldLry-.jpg).
+2020-09-21T23:47:45.634Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:45.634Z thumbsup:error 
+2020-09-21T23:47:48.947Z thumbsup:error Error processing Episode 1/IMG_5619.heic -> media/small/Episode 1/IMG_5619.jpg
+2020-09-21T23:47:48.947Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-naE6rRRP7SsT-.jpg).
+2020-09-21T23:47:48.947Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:48.947Z thumbsup:error 
+2020-09-21T23:47:48.951Z thumbsup:error Error processing Episode 1/IMG_5619.heic -> media/large/Episode 1/IMG_5619.jpg
+2020-09-21T23:47:48.951Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4XTfePKOeHd4-.jpg).
+2020-09-21T23:47:48.951Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:48.951Z thumbsup:error 
+2020-09-21T23:47:52.202Z thumbsup:error Error processing Episode 1/IMG_5620.heic -> media/small/Episode 1/IMG_5620.jpg
+2020-09-21T23:47:52.202Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-EhY1YLSpRJ1f-.jpg).
+2020-09-21T23:47:52.202Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:52.202Z thumbsup:error 
+2020-09-21T23:47:52.207Z thumbsup:error Error processing Episode 1/IMG_5620.heic -> media/large/Episode 1/IMG_5620.jpg
+2020-09-21T23:47:52.207Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-68fFtYYpoDPH-.jpg).
+2020-09-21T23:47:52.207Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:52.207Z thumbsup:error 
+2020-09-21T23:47:55.414Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1226.heic -> media/small/ThePrequals/Episode 3/IMG_1226.jpg
+2020-09-21T23:47:55.414Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-IfOttXwxnMf3-.jpg).
+2020-09-21T23:47:55.414Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:55.414Z thumbsup:error 
+2020-09-21T23:47:55.419Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1226.heic -> media/large/ThePrequals/Episode 3/IMG_1226.jpg
+2020-09-21T23:47:55.419Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-sC3mDgWGuwFH-.jpg).
+2020-09-21T23:47:55.419Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:55.419Z thumbsup:error 
+2020-09-21T23:47:58.602Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1232.heic -> media/small/ThePrequals/Episode 3/IMG_1232.jpg
+2020-09-21T23:47:58.602Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-r83U08ickwp5-.jpg).
+2020-09-21T23:47:58.602Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:58.602Z thumbsup:error 
+2020-09-21T23:47:58.607Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1232.heic -> media/large/ThePrequals/Episode 3/IMG_1232.jpg
+2020-09-21T23:47:58.607Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-AEF1kFKvh3pB-.jpg).
+2020-09-21T23:47:58.607Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:47:58.607Z thumbsup:error 
+2020-09-21T23:48:01.902Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1239.heic -> media/small/ThePrequals/Episode 3/IMG_1239.jpg
+2020-09-21T23:48:01.902Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1256XDEfF7RA-.jpg).
+2020-09-21T23:48:01.902Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:01.902Z thumbsup:error 
+2020-09-21T23:48:01.909Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1239.heic -> media/large/ThePrequals/Episode 3/IMG_1239.jpg
+2020-09-21T23:48:01.909Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-sLRz3mEkD0ob-.jpg).
+2020-09-21T23:48:01.909Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:01.909Z thumbsup:error 
+2020-09-21T23:48:05.203Z thumbsup:error Error processing Episode 1/IMG_5621.heic -> media/small/Episode 1/IMG_5621.jpg
+2020-09-21T23:48:05.203Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Ml0yCIGueFPL-.jpg).
+2020-09-21T23:48:05.203Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:05.203Z thumbsup:error 
+2020-09-21T23:48:05.207Z thumbsup:error Error processing Episode 1/IMG_5621.heic -> media/large/Episode 1/IMG_5621.jpg
+2020-09-21T23:48:05.207Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-q3EFmKwLyzvQ-.jpg).
+2020-09-21T23:48:05.207Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:05.207Z thumbsup:error 
+2020-09-21T23:48:10.231Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1263.heic -> media/small/ThePrequals/Episode 3/IMG_1263.jpg
+2020-09-21T23:48:10.231Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-PI2PngHSEh1L-.jpg).
+2020-09-21T23:48:10.231Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:10.231Z thumbsup:error 
+2020-09-21T23:48:10.235Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1263.heic -> media/large/ThePrequals/Episode 3/IMG_1263.jpg
+2020-09-21T23:48:10.235Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VNbW787dlOW7-.jpg).
+2020-09-21T23:48:10.235Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:10.235Z thumbsup:error 
+2020-09-21T23:48:13.565Z thumbsup:error Error processing Episode 1/IMG_5623.heic -> media/small/Episode 1/IMG_5623.jpg
+2020-09-21T23:48:13.565Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-AquDLcdGrZAJ-.jpg).
+2020-09-21T23:48:13.565Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:13.565Z thumbsup:error 
+2020-09-21T23:48:13.568Z thumbsup:error Error processing Episode 1/IMG_5623.heic -> media/large/Episode 1/IMG_5623.jpg
+2020-09-21T23:48:13.568Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-t2AZqmWgwy1r-.jpg).
+2020-09-21T23:48:13.568Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:13.568Z thumbsup:error 
+2020-09-21T23:48:16.859Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1285.heic -> media/small/ThePrequals/Episode 3/IMG_1285.jpg
+2020-09-21T23:48:16.859Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-f8cBcKTfad9w-.jpg).
+2020-09-21T23:48:16.859Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:16.859Z thumbsup:error 
+2020-09-21T23:48:16.864Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1285.heic -> media/large/ThePrequals/Episode 3/IMG_1285.jpg
+2020-09-21T23:48:16.864Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Eqyj3c6Qowvv-.jpg).
+2020-09-21T23:48:16.864Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:16.864Z thumbsup:error 
+2020-09-21T23:48:20.085Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1286.heic -> media/small/ThePrequals/Episode 3/IMG_1286.jpg
+2020-09-21T23:48:20.085Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ypMI4uyjDBTC-.jpg).
+2020-09-21T23:48:20.085Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:20.085Z thumbsup:error 
+2020-09-21T23:48:20.091Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1286.heic -> media/large/ThePrequals/Episode 3/IMG_1286.jpg
+2020-09-21T23:48:20.091Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-nKCYBgdeQcdM-.jpg).
+2020-09-21T23:48:20.091Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:20.091Z thumbsup:error 
+2020-09-21T23:48:23.313Z thumbsup:error Error processing Episode 1/IMG_5625.heic -> media/small/Episode 1/IMG_5625.jpg
+2020-09-21T23:48:23.313Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-XlNlsE7UdCLA-.jpg).
+2020-09-21T23:48:23.313Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:23.313Z thumbsup:error 
+2020-09-21T23:48:23.317Z thumbsup:error Error processing Episode 1/IMG_5625.heic -> media/large/Episode 1/IMG_5625.jpg
+2020-09-21T23:48:23.317Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-K6a3SjiUGPHq-.jpg).
+2020-09-21T23:48:23.317Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:23.317Z thumbsup:error 
+2020-09-21T23:48:26.571Z thumbsup:error Error processing Episode 1/IMG_5626.heic -> media/small/Episode 1/IMG_5626.jpg
+2020-09-21T23:48:26.571Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-mLiwWx44fC5g-.jpg).
+2020-09-21T23:48:26.571Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:26.571Z thumbsup:error 
+2020-09-21T23:48:26.575Z thumbsup:error Error processing Episode 1/IMG_5626.heic -> media/large/Episode 1/IMG_5626.jpg
+2020-09-21T23:48:26.575Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GNtICMFKyKTB-.jpg).
+2020-09-21T23:48:26.575Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:26.575Z thumbsup:error 
+2020-09-21T23:48:31.089Z thumbsup:error Error processing Episode 1/IMG_5635.heic -> media/small/Episode 1/IMG_5635.jpg
+2020-09-21T23:48:31.089Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1nWkUgsmSV2n-.jpg).
+2020-09-21T23:48:31.089Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:31.089Z thumbsup:error 
+2020-09-21T23:48:31.093Z thumbsup:error Error processing Episode 1/IMG_5635.heic -> media/large/Episode 1/IMG_5635.jpg
+2020-09-21T23:48:31.093Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Qfmx7N6hWyK7-.jpg).
+2020-09-21T23:48:31.093Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:31.093Z thumbsup:error 
+2020-09-21T23:48:35.576Z thumbsup:error Error processing Episode 1/IMG_5636.heic -> media/small/Episode 1/IMG_5636.jpg
+2020-09-21T23:48:35.576Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-LpbJQESfg8Lv-.jpg).
+2020-09-21T23:48:35.576Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:35.576Z thumbsup:error 
+2020-09-21T23:48:35.581Z thumbsup:error Error processing Episode 1/IMG_5636.heic -> media/large/Episode 1/IMG_5636.jpg
+2020-09-21T23:48:35.581Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Z7jjqwFBMKvM-.jpg).
+2020-09-21T23:48:35.581Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:35.581Z thumbsup:error 
+2020-09-21T23:48:38.963Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1464.heic -> media/small/ThePrequals/Episode 3/IMG_1464.jpg
+2020-09-21T23:48:38.963Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-m4XD3gvh2up8-.jpg).
+2020-09-21T23:48:38.963Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:38.963Z thumbsup:error 
+2020-09-21T23:48:38.969Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1464.heic -> media/large/ThePrequals/Episode 3/IMG_1464.jpg
+2020-09-21T23:48:38.969Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ZqI6EXGOZg9j-.jpg).
+2020-09-21T23:48:38.969Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:38.969Z thumbsup:error 
+2020-09-21T23:48:42.348Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1465.heic -> media/small/ThePrequals/Episode 3/IMG_1465.jpg
+2020-09-21T23:48:42.348Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-s1wzPGjG4gDn-.jpg).
+2020-09-21T23:48:42.348Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:42.348Z thumbsup:error 
+2020-09-21T23:48:42.351Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1465.heic -> media/large/ThePrequals/Episode 3/IMG_1465.jpg
+2020-09-21T23:48:42.351Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Tt5EEyCqIoLK-.jpg).
+2020-09-21T23:48:42.351Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:42.351Z thumbsup:error 
+2020-09-21T23:48:45.759Z thumbsup:error Error processing Episode 1/IMG_5643.heic -> media/small/Episode 1/IMG_5643.jpg
+2020-09-21T23:48:45.759Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4mrhYpUYCHOk-.jpg).
+2020-09-21T23:48:45.759Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:45.759Z thumbsup:error 
+2020-09-21T23:48:45.764Z thumbsup:error Error processing Episode 1/IMG_5643.heic -> media/large/Episode 1/IMG_5643.jpg
+2020-09-21T23:48:45.764Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-LsN30IcHIyYP-.jpg).
+2020-09-21T23:48:45.764Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:45.764Z thumbsup:error 
+2020-09-21T23:48:49.161Z thumbsup:error Error processing Episode 1/IMG_5644.heic -> media/small/Episode 1/IMG_5644.jpg
+2020-09-21T23:48:49.161Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Yft0eNVHyStn-.jpg).
+2020-09-21T23:48:49.161Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:49.161Z thumbsup:error 
+2020-09-21T23:48:49.166Z thumbsup:error Error processing Episode 1/IMG_5644.heic -> media/large/Episode 1/IMG_5644.jpg
+2020-09-21T23:48:49.166Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ERRvGUtLy9CY-.jpg).
+2020-09-21T23:48:49.166Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:49.166Z thumbsup:error 
+2020-09-21T23:48:52.535Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1466.heic -> media/small/ThePrequals/Episode 3/IMG_1466.jpg
+2020-09-21T23:48:52.535Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Yz0eM0UWQKv7-.jpg).
+2020-09-21T23:48:52.535Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:52.535Z thumbsup:error 
+2020-09-21T23:48:52.541Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1466.heic -> media/large/ThePrequals/Episode 3/IMG_1466.jpg
+2020-09-21T23:48:52.541Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-gHsGJdYhQI4e-.jpg).
+2020-09-21T23:48:52.541Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:52.541Z thumbsup:error 
+2020-09-21T23:48:55.870Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1468.heic -> media/small/ThePrequals/Episode 3/IMG_1468.jpg
+2020-09-21T23:48:55.870Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-w2wv0dPoDZ3q-.jpg).
+2020-09-21T23:48:55.870Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:55.870Z thumbsup:error 
+2020-09-21T23:48:55.874Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_1468.heic -> media/large/ThePrequals/Episode 3/IMG_1468.jpg
+2020-09-21T23:48:55.874Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-K554BF1pGpMk-.jpg).
+2020-09-21T23:48:55.874Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:55.874Z thumbsup:error 
+2020-09-21T23:48:59.214Z thumbsup:error Error processing Episode 1/IMG_5659.heic -> media/small/Episode 1/IMG_5659.jpg
+2020-09-21T23:48:59.214Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-tRzjSFtqC3y1-.jpg).
+2020-09-21T23:48:59.214Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:59.214Z thumbsup:error 
+2020-09-21T23:48:59.226Z thumbsup:error Error processing Episode 1/IMG_5659.heic -> media/large/Episode 1/IMG_5659.jpg
+2020-09-21T23:48:59.226Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-v6IYpHHBPTHA-.jpg).
+2020-09-21T23:48:59.226Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:48:59.226Z thumbsup:error 
+2020-09-21T23:49:03.049Z thumbsup:error Error processing Episode 1/IMG_5903.heic -> media/small/Episode 1/IMG_5903.jpg
+2020-09-21T23:49:03.049Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-2pvEBVxDeRgg-.jpg).
+2020-09-21T23:49:03.049Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:03.049Z thumbsup:error 
+2020-09-21T23:49:03.054Z thumbsup:error Error processing Episode 1/IMG_5903.heic -> media/large/Episode 1/IMG_5903.jpg
+2020-09-21T23:49:03.054Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-lJQ6rmNPrcLV-.jpg).
+2020-09-21T23:49:03.054Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:03.054Z thumbsup:error 
+2020-09-21T23:49:08.320Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2224.heic -> media/small/ThePrequals/Episode 3/IMG_2224.jpg
+2020-09-21T23:49:08.320Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jBeBRSjq0YgG-.jpg).
+2020-09-21T23:49:08.320Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:08.320Z thumbsup:error 
+2020-09-21T23:49:08.326Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2224.heic -> media/large/ThePrequals/Episode 3/IMG_2224.jpg
+2020-09-21T23:49:08.326Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-FXysFaOkMktn-.jpg).
+2020-09-21T23:49:08.326Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:08.326Z thumbsup:error 
+2020-09-21T23:49:13.708Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2225.heic -> media/small/ThePrequals/Episode 3/IMG_2225.jpg
+2020-09-21T23:49:13.708Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-5RUH6yx0CIjs-.jpg).
+2020-09-21T23:49:13.708Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:13.708Z thumbsup:error 
+2020-09-21T23:49:13.712Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2225.heic -> media/large/ThePrequals/Episode 3/IMG_2225.jpg
+2020-09-21T23:49:13.712Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3gXpl6EcEpGQ-.jpg).
+2020-09-21T23:49:13.712Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:13.712Z thumbsup:error 
+2020-09-21T23:49:17.070Z thumbsup:error Error processing Episode 1/IMG_5915.heic -> media/small/Episode 1/IMG_5915.jpg
+2020-09-21T23:49:17.070Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-3LCtabHj6S7I-.jpg).
+2020-09-21T23:49:17.070Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:17.070Z thumbsup:error 
+2020-09-21T23:49:17.075Z thumbsup:error Error processing Episode 1/IMG_5915.heic -> media/large/Episode 1/IMG_5915.jpg
+2020-09-21T23:49:17.075Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-v6Tg4lNR6wGX-.jpg).
+2020-09-21T23:49:17.075Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:17.075Z thumbsup:error 
+2020-09-21T23:49:20.266Z thumbsup:error Error processing Episode 1/IMG_5916.heic -> media/small/Episode 1/IMG_5916.jpg
+2020-09-21T23:49:20.266Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-cvuFHdRyeVQ4-.jpg).
+2020-09-21T23:49:20.266Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:20.266Z thumbsup:error 
+2020-09-21T23:49:20.272Z thumbsup:error Error processing Episode 1/IMG_5916.heic -> media/large/Episode 1/IMG_5916.jpg
+2020-09-21T23:49:20.272Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-PEQZinx0OVql-.jpg).
+2020-09-21T23:49:20.272Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:20.272Z thumbsup:error 
+2020-09-21T23:49:23.453Z thumbsup:error Error processing Episode 1/IMG_5917.heic -> media/small/Episode 1/IMG_5917.jpg
+2020-09-21T23:49:23.453Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-aa1FcWUYF5D6-.jpg).
+2020-09-21T23:49:23.453Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:23.453Z thumbsup:error 
+2020-09-21T23:49:23.459Z thumbsup:error Error processing Episode 1/IMG_5917.heic -> media/large/Episode 1/IMG_5917.jpg
+2020-09-21T23:49:23.459Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-k3EFF4jmhom8-.jpg).
+2020-09-21T23:49:23.459Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:23.459Z thumbsup:error 
+2020-09-21T23:49:28.655Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2226.heic -> media/small/ThePrequals/Episode 3/IMG_2226.jpg
+2020-09-21T23:49:28.655Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-U9yRszoQ0kSB-.jpg).
+2020-09-21T23:49:28.655Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:28.655Z thumbsup:error 
+2020-09-21T23:49:28.660Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2226.heic -> media/large/ThePrequals/Episode 3/IMG_2226.jpg
+2020-09-21T23:49:28.660Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-VuovT58WQNPz-.jpg).
+2020-09-21T23:49:28.660Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:28.660Z thumbsup:error 
+2020-09-21T23:49:32.019Z thumbsup:error Error processing Episode 1/IMG_5918.heic -> media/small/Episode 1/IMG_5918.jpg
+2020-09-21T23:49:32.019Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-23OLv32RvM6C-.jpg).
+2020-09-21T23:49:32.019Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:32.019Z thumbsup:error 
+2020-09-21T23:49:32.024Z thumbsup:error Error processing Episode 1/IMG_5918.heic -> media/large/Episode 1/IMG_5918.jpg
+2020-09-21T23:49:32.024Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ZDT0y3uy4zcy-.jpg).
+2020-09-21T23:49:32.024Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:32.024Z thumbsup:error 
+2020-09-21T23:49:37.220Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2230.heic -> media/small/ThePrequals/Episode 3/IMG_2230.jpg
+2020-09-21T23:49:37.220Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-OZ2EYMqhrQdK-.jpg).
+2020-09-21T23:49:37.220Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:37.220Z thumbsup:error 
+2020-09-21T23:49:37.225Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2230.heic -> media/large/ThePrequals/Episode 3/IMG_2230.jpg
+2020-09-21T23:49:37.225Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-EcD1BFyOPjYk-.jpg).
+2020-09-21T23:49:37.225Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:37.225Z thumbsup:error 
+2020-09-21T23:49:40.500Z thumbsup:error Error processing Episode 1/IMG_5919.heic -> media/small/Episode 1/IMG_5919.jpg
+2020-09-21T23:49:40.500Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-AIYapW42yB5v-.jpg).
+2020-09-21T23:49:40.500Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:40.500Z thumbsup:error 
+2020-09-21T23:49:40.508Z thumbsup:error Error processing Episode 1/IMG_5919.heic -> media/large/Episode 1/IMG_5919.jpg
+2020-09-21T23:49:40.508Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-XOf2kTHFhE1a-.jpg).
+2020-09-21T23:49:40.508Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:40.508Z thumbsup:error 
+2020-09-21T23:49:43.688Z thumbsup:error Error processing Episode 1/IMG_5920.heic -> media/small/Episode 1/IMG_5920.jpg
+2020-09-21T23:49:43.688Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-MezHhBlbfJCF-.jpg).
+2020-09-21T23:49:43.688Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:43.688Z thumbsup:error 
+2020-09-21T23:49:43.693Z thumbsup:error Error processing Episode 1/IMG_5920.heic -> media/large/Episode 1/IMG_5920.jpg
+2020-09-21T23:49:43.693Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Uoo9ZNXHpoX1-.jpg).
+2020-09-21T23:49:43.693Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:43.693Z thumbsup:error 
+2020-09-21T23:49:46.979Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2240.heic -> media/small/ThePrequals/Episode 3/IMG_2240.jpg
+2020-09-21T23:49:46.979Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GDxsJU8Mw4Em-.jpg).
+2020-09-21T23:49:46.979Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:46.979Z thumbsup:error 
+2020-09-21T23:49:46.984Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2240.heic -> media/large/ThePrequals/Episode 3/IMG_2240.jpg
+2020-09-21T23:49:46.984Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-o8A4n2q4Hcu5-.jpg).
+2020-09-21T23:49:46.984Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:46.984Z thumbsup:error 
+2020-09-21T23:49:50.128Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2269.heic -> media/small/ThePrequals/Episode 3/IMG_2269.jpg
+2020-09-21T23:49:50.128Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-43cuaN76W5DB-.jpg).
+2020-09-21T23:49:50.128Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:50.128Z thumbsup:error 
+2020-09-21T23:49:50.134Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2269.heic -> media/large/ThePrequals/Episode 3/IMG_2269.jpg
+2020-09-21T23:49:50.134Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Xy872SVxiG5k-.jpg).
+2020-09-21T23:49:50.134Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:50.134Z thumbsup:error 
+2020-09-21T23:49:53.317Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2270.heic -> media/small/ThePrequals/Episode 3/IMG_2270.jpg
+2020-09-21T23:49:53.317Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ymcn7sXErPIl-.jpg).
+2020-09-21T23:49:53.317Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:53.317Z thumbsup:error 
+2020-09-21T23:49:53.322Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2270.heic -> media/large/ThePrequals/Episode 3/IMG_2270.jpg
+2020-09-21T23:49:53.322Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ASRs7HI8YsQi-.jpg).
+2020-09-21T23:49:53.322Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:53.322Z thumbsup:error 
+2020-09-21T23:49:56.538Z thumbsup:error Error processing Episode 1/IMG_5921.heic -> media/small/Episode 1/IMG_5921.jpg
+2020-09-21T23:49:56.538Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-mcAAYuyvOw5d-.jpg).
+2020-09-21T23:49:56.538Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:56.538Z thumbsup:error 
+2020-09-21T23:49:56.544Z thumbsup:error Error processing Episode 1/IMG_5921.heic -> media/large/Episode 1/IMG_5921.jpg
+2020-09-21T23:49:56.544Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-iLBa54v0xxoo-.jpg).
+2020-09-21T23:49:56.544Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:56.544Z thumbsup:error 
+2020-09-21T23:49:59.727Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2319.heic -> media/small/ThePrequals/Episode 3/IMG_2319.jpg
+2020-09-21T23:49:59.727Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-pHQmmlZxf27r-.jpg).
+2020-09-21T23:49:59.727Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:59.727Z thumbsup:error 
+2020-09-21T23:49:59.731Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2319.heic -> media/large/ThePrequals/Episode 3/IMG_2319.jpg
+2020-09-21T23:49:59.731Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ey6zwPuNYB8x-.jpg).
+2020-09-21T23:49:59.731Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:49:59.731Z thumbsup:error 
+2020-09-21T23:50:02.566Z thumbsup:error Error processing Episode 1/IMG_5922.heic -> media/small/Episode 1/IMG_5922.jpg
+2020-09-21T23:50:02.566Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-sNjgMy0LrrvB-.jpg).
+2020-09-21T23:50:02.566Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:02.566Z thumbsup:error 
+2020-09-21T23:50:02.571Z thumbsup:error Error processing Episode 1/IMG_5922.heic -> media/large/Episode 1/IMG_5922.jpg
+2020-09-21T23:50:02.571Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ye2TYzMUbsms-.jpg).
+2020-09-21T23:50:02.571Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:02.571Z thumbsup:error 
+2020-09-21T23:50:07.093Z thumbsup:error Error processing Episode 1/IMG_5985.heic -> media/small/Episode 1/IMG_5985.jpg
+2020-09-21T23:50:07.093Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-X7o0v2bG4a3n-.jpg).
+2020-09-21T23:50:07.093Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:07.093Z thumbsup:error 
+2020-09-21T23:50:07.098Z thumbsup:error Error processing Episode 1/IMG_5985.heic -> media/large/Episode 1/IMG_5985.jpg
+2020-09-21T23:50:07.098Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-InVjKf1OvFHZ-.jpg).
+2020-09-21T23:50:07.098Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:07.098Z thumbsup:error 
+2020-09-21T23:50:10.322Z thumbsup:error Error processing Episode 1/IMG_6086.heic -> media/small/Episode 1/IMG_6086.jpg
+2020-09-21T23:50:10.322Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-zXlz2c2wbtMH-.jpg).
+2020-09-21T23:50:10.322Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:10.322Z thumbsup:error 
+2020-09-21T23:50:10.331Z thumbsup:error Error processing Episode 1/IMG_6086.heic -> media/large/Episode 1/IMG_6086.jpg
+2020-09-21T23:50:10.331Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-reBSLEz3GLIX-.jpg).
+2020-09-21T23:50:10.331Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:10.331Z thumbsup:error 
+2020-09-21T23:50:13.567Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2347.heic -> media/small/ThePrequals/Episode 3/IMG_2347.jpg
+2020-09-21T23:50:13.567Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-JthUl60KWaJ4-.jpg).
+2020-09-21T23:50:13.567Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:13.567Z thumbsup:error 
+2020-09-21T23:50:13.572Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2347.heic -> media/large/ThePrequals/Episode 3/IMG_2347.jpg
+2020-09-21T23:50:13.572Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-hDTK3PZjCsow-.jpg).
+2020-09-21T23:50:13.572Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:13.572Z thumbsup:error 
+2020-09-21T23:50:16.865Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2348.heic -> media/small/ThePrequals/Episode 3/IMG_2348.jpg
+2020-09-21T23:50:16.865Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4x2D0MsQT4NM-.jpg).
+2020-09-21T23:50:16.865Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:16.865Z thumbsup:error 
+2020-09-21T23:50:16.870Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2348.heic -> media/large/ThePrequals/Episode 3/IMG_2348.jpg
+2020-09-21T23:50:16.870Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8vGlgEiwxEZi-.jpg).
+2020-09-21T23:50:16.870Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:16.870Z thumbsup:error 
+2020-09-21T23:50:20.933Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2349.heic -> media/small/ThePrequals/Episode 3/IMG_2349.jpg
+2020-09-21T23:50:20.933Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-rI1pAp1Nn8hL-.jpg).
+2020-09-21T23:50:20.933Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:20.933Z thumbsup:error 
+2020-09-21T23:50:20.940Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2349.heic -> media/large/ThePrequals/Episode 3/IMG_2349.jpg
+2020-09-21T23:50:20.940Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ypERgCLOyT3w-.jpg).
+2020-09-21T23:50:20.940Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:20.940Z thumbsup:error 
+2020-09-21T23:50:27.014Z thumbsup:error Error processing Episode 1/IMG_6208.heic -> media/small/Episode 1/IMG_6208.jpg
+2020-09-21T23:50:27.014Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-Yk6bkJCsv6Sq-.jpg).
+2020-09-21T23:50:27.014Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:27.014Z thumbsup:error 
+2020-09-21T23:50:27.019Z thumbsup:error Error processing Episode 1/IMG_6208.heic -> media/large/Episode 1/IMG_6208.jpg
+2020-09-21T23:50:27.019Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-s4J370xqpR8j-.jpg).
+2020-09-21T23:50:27.019Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:27.019Z thumbsup:error 
+2020-09-21T23:50:31.957Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2474.heic -> media/small/ThePrequals/Episode 3/IMG_2474.jpg
+2020-09-21T23:50:31.957Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-WtYeFBW5XAxY-.jpg).
+2020-09-21T23:50:31.957Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:31.957Z thumbsup:error 
+2020-09-21T23:50:31.962Z thumbsup:error Error processing ThePrequals/Episode 3/IMG_2474.heic -> media/large/ThePrequals/Episode 3/IMG_2474.jpg
+2020-09-21T23:50:31.962Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-PSfMc5TgZg1g-.jpg).
+2020-09-21T23:50:31.962Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:31.962Z thumbsup:error 
+2020-09-21T23:50:37.823Z thumbsup:error Error processing Episode 1/IMG_6209.heic -> media/small/Episode 1/IMG_6209.jpg
+2020-09-21T23:50:37.823Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-9Eo1xz0tw6qC-.jpg).
+2020-09-21T23:50:37.823Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:37.823Z thumbsup:error 
+2020-09-21T23:50:37.828Z thumbsup:error Error processing Episode 1/IMG_6209.heic -> media/large/Episode 1/IMG_6209.jpg
+2020-09-21T23:50:37.828Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-STRqSDqeR1dL-.jpg).
+2020-09-21T23:50:37.828Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:50:37.828Z thumbsup:error 
+2020-09-21T23:52:03.142Z thumbsup:error Error processing Episode 2/IMG_0250.heic -> media/small/Episode 2/IMG_0250.jpg
+2020-09-21T23:52:03.142Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7Da53oYB4261-.jpg).
+2020-09-21T23:52:03.142Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:03.142Z thumbsup:error 
+2020-09-21T23:52:03.147Z thumbsup:error Error processing Episode 2/IMG_0250.heic -> media/large/Episode 2/IMG_0250.jpg
+2020-09-21T23:52:03.147Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-F7HBnYHPfqkP-.jpg).
+2020-09-21T23:52:03.147Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:03.147Z thumbsup:error 
+2020-09-21T23:52:08.426Z thumbsup:error Error processing Episode 2/IMG_0251.heic -> media/small/Episode 2/IMG_0251.jpg
+2020-09-21T23:52:08.426Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jKECbm6koiLB-.jpg).
+2020-09-21T23:52:08.426Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:08.426Z thumbsup:error 
+2020-09-21T23:52:08.431Z thumbsup:error Error processing Episode 2/IMG_0251.heic -> media/large/Episode 2/IMG_0251.jpg
+2020-09-21T23:52:08.431Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-eFZCE0nqQR17-.jpg).
+2020-09-21T23:52:08.431Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:08.431Z thumbsup:error 
+2020-09-21T23:52:13.718Z thumbsup:error Error processing Episode 2/IMG_0252.heic -> media/small/Episode 2/IMG_0252.jpg
+2020-09-21T23:52:13.718Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-JD7yqYexIuEx-.jpg).
+2020-09-21T23:52:13.718Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:13.718Z thumbsup:error 
+2020-09-21T23:52:13.722Z thumbsup:error Error processing Episode 2/IMG_0252.heic -> media/large/Episode 2/IMG_0252.jpg
+2020-09-21T23:52:13.722Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-F8LwN67GWPHn-.jpg).
+2020-09-21T23:52:13.722Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:13.722Z thumbsup:error 
+2020-09-21T23:52:18.988Z thumbsup:error Error processing Episode 2/IMG_0253.heic -> media/small/Episode 2/IMG_0253.jpg
+2020-09-21T23:52:18.988Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4BlVDp33jtMy-.jpg).
+2020-09-21T23:52:18.988Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:18.988Z thumbsup:error 
+2020-09-21T23:52:18.993Z thumbsup:error Error processing Episode 2/IMG_0253.heic -> media/large/Episode 2/IMG_0253.jpg
+2020-09-21T23:52:18.993Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-s26gQjSCPYd4-.jpg).
+2020-09-21T23:52:18.993Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:18.993Z thumbsup:error 
+2020-09-21T23:52:24.300Z thumbsup:error Error processing Episode 2/IMG_0254.heic -> media/small/Episode 2/IMG_0254.jpg
+2020-09-21T23:52:24.300Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-jyxoq6K50EsJ-.jpg).
+2020-09-21T23:52:24.300Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:24.300Z thumbsup:error 
+2020-09-21T23:52:24.305Z thumbsup:error Error processing Episode 2/IMG_0254.heic -> media/large/Episode 2/IMG_0254.jpg
+2020-09-21T23:52:24.305Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-03xokJtLlCU6-.jpg).
+2020-09-21T23:52:24.305Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:24.305Z thumbsup:error 
+2020-09-21T23:52:29.568Z thumbsup:error Error processing Episode 2/IMG_0256.heic -> media/small/Episode 2/IMG_0256.jpg
+2020-09-21T23:52:29.568Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ufGYr2jLfvTq-.jpg).
+2020-09-21T23:52:29.568Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:29.568Z thumbsup:error 
+2020-09-21T23:52:29.572Z thumbsup:error Error processing Episode 2/IMG_0256.heic -> media/large/Episode 2/IMG_0256.jpg
+2020-09-21T23:52:29.572Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-YFcAnWC6s8sL-.jpg).
+2020-09-21T23:52:29.572Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:29.572Z thumbsup:error 
+2020-09-21T23:52:33.324Z thumbsup:error Error processing Episode 2/IMG_2440.heic -> media/small/Episode 2/IMG_2440.jpg
+2020-09-21T23:52:33.324Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-z2X3QX5404mg-.jpg).
+2020-09-21T23:52:33.324Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:33.324Z thumbsup:error 
+2020-09-21T23:52:33.328Z thumbsup:error Error processing Episode 2/IMG_2440.heic -> media/large/Episode 2/IMG_2440.jpg
+2020-09-21T23:52:33.328Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GMqIXgypgDge-.jpg).
+2020-09-21T23:52:33.328Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:33.328Z thumbsup:error 
+2020-09-21T23:52:37.535Z thumbsup:error Error processing Episode 2/IMG_2448.heic -> media/small/Episode 2/IMG_2448.jpg
+2020-09-21T23:52:37.535Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-E1GnQb6UVxMq-.jpg).
+2020-09-21T23:52:37.535Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:37.535Z thumbsup:error 
+2020-09-21T23:52:37.540Z thumbsup:error Error processing Episode 2/IMG_2448.heic -> media/large/Episode 2/IMG_2448.jpg
+2020-09-21T23:52:37.540Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-wUorm7wOTVBd-.jpg).
+2020-09-21T23:52:37.540Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:37.540Z thumbsup:error 
+2020-09-21T23:52:40.914Z thumbsup:error Error processing Episode 2/IMG_2449.heic -> media/small/Episode 2/IMG_2449.jpg
+2020-09-21T23:52:40.914Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-UcUkRvExIjIK-.jpg).
+2020-09-21T23:52:40.914Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:40.914Z thumbsup:error 
+2020-09-21T23:52:40.917Z thumbsup:error Error processing Episode 2/IMG_2449.heic -> media/large/Episode 2/IMG_2449.jpg
+2020-09-21T23:52:40.917Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-tosWA0fAN727-.jpg).
+2020-09-21T23:52:40.917Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:52:40.917Z thumbsup:error 
+2020-09-21T23:53:25.646Z thumbsup:error Error processing Episode 2/IMG_6273.heic -> media/small/Episode 2/IMG_6273.jpg
+2020-09-21T23:53:25.646Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-1Z28PqyfHZdo-.jpg).
+2020-09-21T23:53:25.646Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:25.646Z thumbsup:error 
+2020-09-21T23:53:25.652Z thumbsup:error Error processing Episode 2/IMG_6273.heic -> media/large/Episode 2/IMG_6273.jpg
+2020-09-21T23:53:25.652Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-AxsoPJST7SnO-.jpg).
+2020-09-21T23:53:25.652Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:25.652Z thumbsup:error 
+2020-09-21T23:53:29.195Z thumbsup:error Error processing Episode 2/IMG_6274.heic -> media/small/Episode 2/IMG_6274.jpg
+2020-09-21T23:53:29.195Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-b1oGZGlgpROk-.jpg).
+2020-09-21T23:53:29.195Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:29.195Z thumbsup:error 
+2020-09-21T23:53:29.200Z thumbsup:error Error processing Episode 2/IMG_6274.heic -> media/large/Episode 2/IMG_6274.jpg
+2020-09-21T23:53:29.200Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-czKaRhL6122x-.jpg).
+2020-09-21T23:53:29.200Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:29.200Z thumbsup:error 
+2020-09-21T23:53:34.689Z thumbsup:error Error processing Episode 2/IMG_6275.heic -> media/small/Episode 2/IMG_6275.jpg
+2020-09-21T23:53:34.689Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4behXhl73d5f-.jpg).
+2020-09-21T23:53:34.689Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:34.689Z thumbsup:error 
+2020-09-21T23:53:34.693Z thumbsup:error Error processing Episode 2/IMG_6275.heic -> media/large/Episode 2/IMG_6275.jpg
+2020-09-21T23:53:34.693Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-8o63hXJZ6ZJS-.jpg).
+2020-09-21T23:53:34.693Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:34.693Z thumbsup:error 
+2020-09-21T23:53:40.213Z thumbsup:error Error processing Episode 2/IMG_6276.heic -> media/small/Episode 2/IMG_6276.jpg
+2020-09-21T23:53:40.213Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-g5pR66eWN15f-.jpg).
+2020-09-21T23:53:40.213Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:40.213Z thumbsup:error 
+2020-09-21T23:53:40.217Z thumbsup:error Error processing Episode 2/IMG_6276.heic -> media/large/Episode 2/IMG_6276.jpg
+2020-09-21T23:53:40.217Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-y7sAQLxudevv-.jpg).
+2020-09-21T23:53:40.217Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:40.217Z thumbsup:error 
+2020-09-21T23:53:45.769Z thumbsup:error Error processing Episode 2/IMG_6277.heic -> media/small/Episode 2/IMG_6277.jpg
+2020-09-21T23:53:45.769Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GhNJULUAGc9a-.jpg).
+2020-09-21T23:53:45.769Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:45.769Z thumbsup:error 
+2020-09-21T23:53:45.774Z thumbsup:error Error processing Episode 2/IMG_6277.heic -> media/large/Episode 2/IMG_6277.jpg
+2020-09-21T23:53:45.774Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-AH4fw5liBr1p-.jpg).
+2020-09-21T23:53:45.774Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:45.774Z thumbsup:error 
+2020-09-21T23:53:51.334Z thumbsup:error Error processing Episode 2/IMG_6288.heic -> media/small/Episode 2/IMG_6288.jpg
+2020-09-21T23:53:51.334Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-DwqdxrQ6P7aY-.jpg).
+2020-09-21T23:53:51.334Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:51.334Z thumbsup:error 
+2020-09-21T23:53:51.338Z thumbsup:error Error processing Episode 2/IMG_6288.heic -> media/large/Episode 2/IMG_6288.jpg
+2020-09-21T23:53:51.338Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-28I6YDvOrin6-.jpg).
+2020-09-21T23:53:51.338Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:51.338Z thumbsup:error 
+2020-09-21T23:53:54.758Z thumbsup:error Error processing Episode 2/IMG_6301.heic -> media/small/Episode 2/IMG_6301.jpg
+2020-09-21T23:53:54.758Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-KAVzaPo5Mfi8-.jpg).
+2020-09-21T23:53:54.758Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:54.758Z thumbsup:error 
+2020-09-21T23:53:54.763Z thumbsup:error Error processing Episode 2/IMG_6301.heic -> media/large/Episode 2/IMG_6301.jpg
+2020-09-21T23:53:54.763Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-pPGLsZE5cbrE-.jpg).
+2020-09-21T23:53:54.763Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:54.763Z thumbsup:error 
+2020-09-21T23:53:58.053Z thumbsup:error Error processing Episode 2/IMG_6302.heic -> media/small/Episode 2/IMG_6302.jpg
+2020-09-21T23:53:58.053Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-GIPl4TM4jsPT-.jpg).
+2020-09-21T23:53:58.053Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:58.053Z thumbsup:error 
+2020-09-21T23:53:58.058Z thumbsup:error Error processing Episode 2/IMG_6302.heic -> media/large/Episode 2/IMG_6302.jpg
+2020-09-21T23:53:58.058Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-T3x6vAdzTC8D-.jpg).
+2020-09-21T23:53:58.058Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:53:58.058Z thumbsup:error 
+2020-09-21T23:54:01.415Z thumbsup:error Error processing Episode 2/IMG_6303.heic -> media/small/Episode 2/IMG_6303.jpg
+2020-09-21T23:54:01.415Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-wBhtbmFdeaKS-.jpg).
+2020-09-21T23:54:01.415Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:01.415Z thumbsup:error 
+2020-09-21T23:54:01.419Z thumbsup:error Error processing Episode 2/IMG_6303.heic -> media/large/Episode 2/IMG_6303.jpg
+2020-09-21T23:54:01.419Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-xfXRRA7oWVyh-.jpg).
+2020-09-21T23:54:01.419Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:01.419Z thumbsup:error 
+2020-09-21T23:54:04.761Z thumbsup:error Error processing Episode 2/IMG_6304.heic -> media/small/Episode 2/IMG_6304.jpg
+2020-09-21T23:54:04.761Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-cDNYACAocIHJ-.jpg).
+2020-09-21T23:54:04.761Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:04.761Z thumbsup:error 
+2020-09-21T23:54:04.766Z thumbsup:error Error processing Episode 2/IMG_6304.heic -> media/large/Episode 2/IMG_6304.jpg
+2020-09-21T23:54:04.766Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-RZkWTrGhihXe-.jpg).
+2020-09-21T23:54:04.766Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:04.766Z thumbsup:error 
+2020-09-21T23:54:08.080Z thumbsup:error Error processing Episode 2/IMG_6305.heic -> media/small/Episode 2/IMG_6305.jpg
+2020-09-21T23:54:08.080Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-6Op10Q3AFkVD-.jpg).
+2020-09-21T23:54:08.080Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:08.080Z thumbsup:error 
+2020-09-21T23:54:08.084Z thumbsup:error Error processing Episode 2/IMG_6305.heic -> media/large/Episode 2/IMG_6305.jpg
+2020-09-21T23:54:08.084Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-twnQV4UtNqnj-.jpg).
+2020-09-21T23:54:08.084Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:08.084Z thumbsup:error 
+2020-09-21T23:54:13.410Z thumbsup:error Error processing Episode 2/IMG_6402.heic -> media/small/Episode 2/IMG_6402.jpg
+2020-09-21T23:54:13.410Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-R01ZAwrHExN2-.jpg).
+2020-09-21T23:54:13.410Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:13.410Z thumbsup:error 
+2020-09-21T23:54:13.414Z thumbsup:error Error processing Episode 2/IMG_6402.heic -> media/large/Episode 2/IMG_6402.jpg
+2020-09-21T23:54:13.414Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-AwdgScIbRbhJ-.jpg).
+2020-09-21T23:54:13.414Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:13.414Z thumbsup:error 
+2020-09-21T23:54:18.882Z thumbsup:error Error processing Episode 2/IMG_6403.heic -> media/small/Episode 2/IMG_6403.jpg
+2020-09-21T23:54:18.882Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-DZvjXb4fso5B-.jpg).
+2020-09-21T23:54:18.882Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:18.882Z thumbsup:error 
+2020-09-21T23:54:18.887Z thumbsup:error Error processing Episode 2/IMG_6403.heic -> media/large/Episode 2/IMG_6403.jpg
+2020-09-21T23:54:18.887Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-X1mrbCOa5aOv-.jpg).
+2020-09-21T23:54:18.887Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:18.887Z thumbsup:error 
+2020-09-21T23:54:24.312Z thumbsup:error Error processing Episode 2/IMG_6404.heic -> media/small/Episode 2/IMG_6404.jpg
+2020-09-21T23:54:24.312Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-SYy9kjKxmFA1-.jpg).
+2020-09-21T23:54:24.312Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:24.312Z thumbsup:error 
+2020-09-21T23:54:24.316Z thumbsup:error Error processing Episode 2/IMG_6404.heic -> media/large/Episode 2/IMG_6404.jpg
+2020-09-21T23:54:24.316Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-RzRq2hQttMBf-.jpg).
+2020-09-21T23:54:24.316Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:24.316Z thumbsup:error 
+2020-09-21T23:54:36.457Z thumbsup:error Error processing Episode 2/IMG_6426.heic -> media/small/Episode 2/IMG_6426.jpg
+2020-09-21T23:54:36.457Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-cLkK0sLXsscx-.jpg).
+2020-09-21T23:54:36.457Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:36.457Z thumbsup:error 
+2020-09-21T23:54:36.462Z thumbsup:error Error processing Episode 2/IMG_6426.heic -> media/large/Episode 2/IMG_6426.jpg
+2020-09-21T23:54:36.462Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-2Eirt1VvyMVa-.jpg).
+2020-09-21T23:54:36.462Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:36.462Z thumbsup:error 
+2020-09-21T23:54:42.093Z thumbsup:error Error processing Episode 2/IMG_6427.heic -> media/small/Episode 2/IMG_6427.jpg
+2020-09-21T23:54:42.093Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-n6TwZZk8kfDE-.jpg).
+2020-09-21T23:54:42.093Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:42.093Z thumbsup:error 
+2020-09-21T23:54:42.097Z thumbsup:error Error processing Episode 2/IMG_6427.heic -> media/large/Episode 2/IMG_6427.jpg
+2020-09-21T23:54:42.097Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-nG9L42V3n939-.jpg).
+2020-09-21T23:54:42.097Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:42.097Z thumbsup:error 
+2020-09-21T23:54:47.758Z thumbsup:error Error processing Episode 2/IMG_6428.heic -> media/small/Episode 2/IMG_6428.jpg
+2020-09-21T23:54:47.758Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-KbPvnSkYeI46-.jpg).
+2020-09-21T23:54:47.758Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:47.758Z thumbsup:error 
+2020-09-21T23:54:47.763Z thumbsup:error Error processing Episode 2/IMG_6428.heic -> media/large/Episode 2/IMG_6428.jpg
+2020-09-21T23:54:47.763Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-OfVZlXCckid7-.jpg).
+2020-09-21T23:54:47.763Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:47.763Z thumbsup:error 
+2020-09-21T23:54:53.410Z thumbsup:error Error processing Episode 2/IMG_6429.heic -> media/small/Episode 2/IMG_6429.jpg
+2020-09-21T23:54:53.410Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-hxylhyAwiHzG-.jpg).
+2020-09-21T23:54:53.410Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:53.410Z thumbsup:error 
+2020-09-21T23:54:53.414Z thumbsup:error Error processing Episode 2/IMG_6429.heic -> media/large/Episode 2/IMG_6429.jpg
+2020-09-21T23:54:53.414Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-RqPvGvxI0xm7-.jpg).
+2020-09-21T23:54:53.414Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:53.414Z thumbsup:error 
+2020-09-21T23:54:59.070Z thumbsup:error Error processing Episode 2/IMG_6430.heic -> media/small/Episode 2/IMG_6430.jpg
+2020-09-21T23:54:59.070Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7bI0vAY4c5IY-.jpg).
+2020-09-21T23:54:59.070Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:59.070Z thumbsup:error 
+2020-09-21T23:54:59.082Z thumbsup:error Error processing Episode 2/IMG_6430.heic -> media/large/Episode 2/IMG_6430.jpg
+2020-09-21T23:54:59.082Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ZErhaKBnRT1J-.jpg).
+2020-09-21T23:54:59.082Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:54:59.082Z thumbsup:error 
+2020-09-21T23:55:04.602Z thumbsup:error Error processing Episode 2/IMG_6443.heic -> media/small/Episode 2/IMG_6443.jpg
+2020-09-21T23:55:04.602Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-KH4uUfs5cXdC-.jpg).
+2020-09-21T23:55:04.602Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:04.602Z thumbsup:error 
+2020-09-21T23:55:04.606Z thumbsup:error Error processing Episode 2/IMG_6443.heic -> media/large/Episode 2/IMG_6443.jpg
+2020-09-21T23:55:04.606Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-6UYwbg5dPLym-.jpg).
+2020-09-21T23:55:04.606Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:04.606Z thumbsup:error 
+2020-09-21T23:55:10.099Z thumbsup:error Error processing Episode 2/IMG_6444.heic -> media/small/Episode 2/IMG_6444.jpg
+2020-09-21T23:55:10.099Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-pXMmHfuzt8DB-.jpg).
+2020-09-21T23:55:10.099Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:10.099Z thumbsup:error 
+2020-09-21T23:55:10.103Z thumbsup:error Error processing Episode 2/IMG_6444.heic -> media/large/Episode 2/IMG_6444.jpg
+2020-09-21T23:55:10.103Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-6YvA1OjzyOz2-.jpg).
+2020-09-21T23:55:10.103Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:10.103Z thumbsup:error 
+2020-09-21T23:55:15.446Z thumbsup:error Error processing Episode 2/IMG_6530.heic -> media/small/Episode 2/IMG_6530.jpg
+2020-09-21T23:55:15.446Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-18ELcYnktp58-.jpg).
+2020-09-21T23:55:15.446Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:15.446Z thumbsup:error 
+2020-09-21T23:55:15.458Z thumbsup:error Error processing Episode 2/IMG_6530.heic -> media/large/Episode 2/IMG_6530.jpg
+2020-09-21T23:55:15.458Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-J8HO6cnJfSJg-.jpg).
+2020-09-21T23:55:15.458Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:15.458Z thumbsup:error 
+2020-09-21T23:55:21.490Z thumbsup:error Error processing Episode 2/IMG_6778.heic -> media/small/Episode 2/IMG_6778.jpg
+2020-09-21T23:55:21.490Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-dzXP5y43pUSP-.jpg).
+2020-09-21T23:55:21.490Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:21.490Z thumbsup:error 
+2020-09-21T23:55:21.494Z thumbsup:error Error processing Episode 2/IMG_6778.heic -> media/large/Episode 2/IMG_6778.jpg
+2020-09-21T23:55:21.494Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-V7Np6ClYkPoh-.jpg).
+2020-09-21T23:55:21.494Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:21.494Z thumbsup:error 
+2020-09-21T23:55:24.838Z thumbsup:error Error processing Episode 2/IMG_6779.heic -> media/small/Episode 2/IMG_6779.jpg
+2020-09-21T23:55:24.838Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-xUvP74RCJ5lS-.jpg).
+2020-09-21T23:55:24.838Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:24.838Z thumbsup:error 
+2020-09-21T23:55:24.850Z thumbsup:error Error processing Episode 2/IMG_6779.heic -> media/large/Episode 2/IMG_6779.jpg
+2020-09-21T23:55:24.850Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-HPu2dgYSX3rH-.jpg).
+2020-09-21T23:55:24.850Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:24.850Z thumbsup:error 
+2020-09-21T23:55:28.072Z thumbsup:error Error processing Episode 2/IMG_6810.heic -> media/small/Episode 2/IMG_6810.jpg
+2020-09-21T23:55:28.072Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-5kTyJ51M3gs9-.jpg).
+2020-09-21T23:55:28.072Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:28.072Z thumbsup:error 
+2020-09-21T23:55:28.077Z thumbsup:error Error processing Episode 2/IMG_6810.heic -> media/large/Episode 2/IMG_6810.jpg
+2020-09-21T23:55:28.077Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-EDioYPslJSNp-.jpg).
+2020-09-21T23:55:28.077Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:28.077Z thumbsup:error 
+2020-09-21T23:55:33.330Z thumbsup:error Error processing Episode 2/IMG_6940.heic -> media/small/Episode 2/IMG_6940.jpg
+2020-09-21T23:55:33.330Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-B7xNiKpBG406-.jpg).
+2020-09-21T23:55:33.330Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:33.330Z thumbsup:error 
+2020-09-21T23:55:33.335Z thumbsup:error Error processing Episode 2/IMG_6940.heic -> media/large/Episode 2/IMG_6940.jpg
+2020-09-21T23:55:33.335Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-pv5m6QH0Cmpg-.jpg).
+2020-09-21T23:55:33.335Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:33.335Z thumbsup:error 
+2020-09-21T23:55:38.623Z thumbsup:error Error processing Episode 2/IMG_6941.heic -> media/small/Episode 2/IMG_6941.jpg
+2020-09-21T23:55:38.623Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-4ikHiEelEIIs-.jpg).
+2020-09-21T23:55:38.623Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:38.623Z thumbsup:error 
+2020-09-21T23:55:38.634Z thumbsup:error Error processing Episode 2/IMG_6941.heic -> media/large/Episode 2/IMG_6941.jpg
+2020-09-21T23:55:38.634Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-ASXEfzHDtGni-.jpg).
+2020-09-21T23:55:38.634Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:38.634Z thumbsup:error 
+2020-09-21T23:55:43.926Z thumbsup:error Error processing Episode 2/IMG_6942.heic -> media/small/Episode 2/IMG_6942.jpg
+2020-09-21T23:55:43.926Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-R61iG999PYgC-.jpg).
+2020-09-21T23:55:43.926Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:43.926Z thumbsup:error 
+2020-09-21T23:55:43.929Z thumbsup:error Error processing Episode 2/IMG_6942.heic -> media/large/Episode 2/IMG_6942.jpg
+2020-09-21T23:55:43.929Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-hsW7TndH5q58-.jpg).
+2020-09-21T23:55:43.929Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:43.929Z thumbsup:error 
+2020-09-21T23:55:47.422Z thumbsup:error Error processing Episode 2/IMG_7168.heic -> media/small/Episode 2/IMG_7168.jpg
+2020-09-21T23:55:47.422Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-0j2tcIbxakTi-.jpg).
+2020-09-21T23:55:47.422Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:47.422Z thumbsup:error 
+2020-09-21T23:55:47.426Z thumbsup:error Error processing Episode 2/IMG_7168.heic -> media/large/Episode 2/IMG_7168.jpg
+2020-09-21T23:55:47.426Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-7Szpf0bF1n4K-.jpg).
+2020-09-21T23:55:47.426Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:47.426Z thumbsup:error 
+2020-09-21T23:55:53.982Z thumbsup:error Error processing Episode 2/IMG_7230.heic -> media/small/Episode 2/IMG_7230.jpg
+2020-09-21T23:55:53.982Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-miYYlhgTt4U3-.jpg).
+2020-09-21T23:55:53.982Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:53.982Z thumbsup:error 
+2020-09-21T23:55:53.988Z thumbsup:error Error processing Episode 2/IMG_7230.heic -> media/large/Episode 2/IMG_7230.jpg
+2020-09-21T23:55:53.988Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-cZgPOIcVBKZt-.jpg).
+2020-09-21T23:55:53.988Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:53.988Z thumbsup:error 
+2020-09-21T23:55:59.419Z thumbsup:error Error processing Episode 2/IMG_7232.heic -> media/small/Episode 2/IMG_7232.jpg
+2020-09-21T23:55:59.419Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-wj85IJ06uB04-.jpg).
+2020-09-21T23:55:59.419Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:59.419Z thumbsup:error 
+2020-09-21T23:55:59.423Z thumbsup:error Error processing Episode 2/IMG_7232.heic -> media/large/Episode 2/IMG_7232.jpg
+2020-09-21T23:55:59.423Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-SLis7c0T1bte-.jpg).
+2020-09-21T23:55:59.423Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:55:59.423Z thumbsup:error 
+2020-09-21T23:56:09.549Z thumbsup:error Error processing Episode 2/IMG_7394.heic -> media/small/Episode 2/IMG_7394.jpg
+2020-09-21T23:56:09.549Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-naqUvSzSdtuC-.jpg).
+2020-09-21T23:56:09.549Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:56:09.549Z thumbsup:error 
+2020-09-21T23:56:09.553Z thumbsup:error Error processing Episode 2/IMG_7394.heic -> media/large/Episode 2/IMG_7394.jpg
+2020-09-21T23:56:09.553Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-i7UhxzQZ0aEr-.jpg).
+2020-09-21T23:56:09.553Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:56:09.553Z thumbsup:error 
+2020-09-21T23:56:15.107Z thumbsup:error Error processing Episode 2/IMG_7407.heic -> media/small/Episode 2/IMG_7407.jpg
+2020-09-21T23:56:15.107Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-wpVqjNDsS2pS-.jpg).
+2020-09-21T23:56:15.107Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:56:15.107Z thumbsup:error 
+2020-09-21T23:56:15.110Z thumbsup:error Error processing Episode 2/IMG_7407.heic -> media/large/Episode 2/IMG_7407.jpg
+2020-09-21T23:56:15.110Z thumbsup:error Error: Command failed: gm identify: Insufficient image data in file (/tmp/tmp-5-CW1oe1as2TAe-.jpg).
+2020-09-21T23:56:15.110Z thumbsup:error gm identify: Request did not return an image.
+2020-09-21T23:56:15.110Z thumbsup:error 
+2020-09-21T23:56:56.277Z thumbsup:warn The following sources files were not processed:
+2020-09-21T23:56:56.277Z thumbsup:warn Episode 1/IMG_1481.heic,Episode 1/IMG_1483.heic,Episode 1/IMG_1484.heic,Episode 1/IMG_1485.heic,Episode 1/IMG_1527.heic,Episode 1/IMG_1564.heic,Episode 1/IMG_1565.heic,Episode 1/IMG_1566.heic,Episode 1/IMG_1569.heic,Episode 1/IMG_1570.heic,Episode 1/IMG_1571.heic,Episode 1/IMG_1577.heic,Episode 1/IMG_1578.heic,Episode 1/IMG_1579.heic,Episode 1/IMG_1580.heic,Episode 1/IMG_1585.heic,Episode 1/IMG_1586.heic,Episode 1/IMG_1588.heic,Episode 1/IMG_1589.heic,Episode 1/IMG_1590.heic,Episode 1/IMG_1591.heic,Episode 1/IMG_1592.heic,Episode 1/IMG_1608.heic,Episode 1/IMG_1609.heic,Episode 1/IMG_1610.heic,Episode 1/IMG_1678.heic,Episode 1/IMG_1692.heic,Episode 1/IMG_1693.heic,Episode 1/IMG_1694.heic,Episode 1/IMG_1695.heic,Episode 1/IMG_1696.heic,Episode 1/IMG_1697.heic,Episode 1/IMG_1698.heic,Episode 1/IMG_1699.heic,Episode 1/IMG_1708.heic,Episode 1/IMG_1709.heic,Episode 1/IMG_1710.heic,Episode 1/IMG_1716.heic,Episode 1/IMG_1717.heic,Episode 1/IMG_1719.heic,Episode 1/IMG_1720.heic,Episode 1/IMG_1733.heic,Episode 1/IMG_1734.heic,Episode 1/IMG_1735.heic,Episode 1/IMG_1739.heic,Episode 1/IMG_1780.heic,Episode 1/IMG_1781.heic,Episode 1/IMG_1782.heic,Episode 1/IMG_1792.heic,Episode 1/IMG_1799.heic,Episode 1/IMG_1800.heic,Episode 1/IMG_1802.heic,Episode 1/IMG_1803.heic,Episode 1/IMG_1813.heic,Episode 1/IMG_1814.heic,Episode 1/IMG_1817.heic,Episode 1/IMG_2072.heic,Episode 1/IMG_2155.heic,Episode 1/IMG_2156.heic,Episode 1/IMG_2183.heic,Episode 1/IMG_3173.heic,Episode 1/IMG_3174.heic,Episode 1/IMG_3175.heic,Episode 1/IMG_3176.heic,Episode 1/IMG_3181.heic,Episode 1/IMG_3182.heic,Episode 1/IMG_3293.heic,Episode 1/IMG_3295.heic,Episode 1/IMG_3296.heic,Episode 1/IMG_3298.heic,Episode 1/IMG_3299.heic,Episode 1/IMG_3416.heic,Episode 1/IMG_3650.heic,Episode 1/IMG_3651.heic,Episode 1/IMG_3652.heic,Episode 1/IMG_3653.heic,Episode 1/IMG_3654.heic,Episode 1/IMG_3655.heic,Episode 1/IMG_3656.heic,Episode 1/IMG_3703.heic,Episode 1/IMG_3851.heic,Episode 1/IMG_3853.heic,Episode 1/IMG_5057.heic,Episode 1/IMG_5058.heic,Episode 1/IMG_5072.heic,Episode 1/IMG_5080.heic,Episode 1/IMG_5081.heic,Episode 1/IMG_5086.heic,Episode 1/IMG_5087.heic,Episode 1/IMG_5179.heic,Episode 1/IMG_5180.heic,Episode 1/IMG_5181.heic,Episode 1/IMG_5185.heic,Episode 1/IMG_5186.heic,Episode 1/IMG_5188.heic,Episode 1/IMG_5292.heic,Episode 1/IMG_5293.heic,Episode 1/IMG_5294.heic,Episode 1/IMG_5295.heic,Episode 1/IMG_5296.heic,Episode 1/IMG_5297.heic,Episode 1/IMG_5298.heic,Episode 1/IMG_5386.heic,Episode 1/IMG_5406(1).heic,Episode 1/IMG_5406.heic,Episode 1/IMG_5407.heic,Episode 1/IMG_5417(1).heic,Episode 1/IMG_5417.heic,Episode 1/IMG_5418.heic,Episode 1/IMG_5419.heic,Episode 1/IMG_5420.heic,Episode 1/IMG_5421.heic,Episode 1/IMG_5422.heic,Episode 1/IMG_5423.heic,Episode 1/IMG_5435.heic,Episode 1/IMG_5436.heic,Episode 1/IMG_5437.heic,Episode 1/IMG_5438.heic,Episode 1/IMG_5445.heic,Episode 1/IMG_5446.heic,Episode 1/IMG_5447.heic,Episode 1/IMG_5448.heic,Episode 1/IMG_5449.heic,Episode 1/IMG_5453.heic,Episode 1/IMG_5588.heic,Episode 1/IMG_5593.heic,Episode 1/IMG_5598.heic,Episode 1/IMG_5599.heic,Episode 1/IMG_5601.heic,Episode 1/IMG_5609.heic,Episode 1/IMG_5610.heic,Episode 1/IMG_5611.heic,Episode 1/IMG_5612.heic,Episode 1/IMG_5617.heic,ThePrequals/Episode 3/IMG_1127.heic,Episode 1/IMG_5618.heic,Episode 1/IMG_5619.heic,Episode 1/IMG_5620.heic,ThePrequals/Episode 3/IMG_1226.heic,ThePrequals/Episode 3/IMG_1232.heic,ThePrequals/Episode 3/IMG_1239.heic,Episode 1/IMG_5621.heic,ThePrequals/Episode 3/IMG_1263.heic,Episode 1/IMG_5623.heic,ThePrequals/Episode 3/IMG_1285.heic,ThePrequals/Episode 3/IMG_1286.heic,Episode 1/IMG_5625.heic,Episode 1/IMG_5626.heic,Episode 1/IMG_5635.heic,Episode 1/IMG_5636.heic,ThePrequals/Episode 3/IMG_1464.heic,ThePrequals/Episode 3/IMG_1465.heic,Episode 1/IMG_5643.heic,Episode 1/IMG_5644.heic,ThePrequals/Episode 3/IMG_1466.heic,ThePrequals/Episode 3/IMG_1468.heic,Episode 1/IMG_5659.heic,Episode 1/IMG_5903.heic,ThePrequals/Episode 3/IMG_2224.heic,ThePrequals/Episode 3/IMG_2225.heic,Episode 1/IMG_5915.heic,Episode 1/IMG_5916.heic,Episode 1/IMG_5917.heic,ThePrequals/Episode 3/IMG_2226.heic,Episode 1/IMG_5918.heic,ThePrequals/Episode 3/IMG_2230.heic,Episode 1/IMG_5919.heic,Episode 1/IMG_5920.heic,ThePrequals/Episode 3/IMG_2240.heic,ThePrequals/Episode 3/IMG_2269.heic,ThePrequals/Episode 3/IMG_2270.heic,Episode 1/IMG_5921.heic,ThePrequals/Episode 3/IMG_2319.heic,Episode 1/IMG_5922.heic,Episode 1/IMG_5985.heic,Episode 1/IMG_6086.heic,ThePrequals/Episode 3/IMG_2347.heic,ThePrequals/Episode 3/IMG_2348.heic,ThePrequals/Episode 3/IMG_2349.heic,Episode 1/IMG_6208.heic,ThePrequals/Episode 3/IMG_2474.heic,Episode 1/IMG_6209.heic,Episode 2/IMG_0250.heic,Episode 2/IMG_0251.heic,Episode 2/IMG_0252.heic,Episode 2/IMG_0253.heic,Episode 2/IMG_0254.heic,Episode 2/IMG_0256.heic,Episode 2/IMG_2440.heic,Episode 2/IMG_2448.heic,Episode 2/IMG_2449.heic,Episode 2/IMG_6273.heic,Episode 2/IMG_6274.heic,Episode 2/IMG_6275.heic,Episode 2/IMG_6276.heic,Episode 2/IMG_6277.heic,Episode 2/IMG_6288.heic,Episode 2/IMG_6301.heic,Episode 2/IMG_6302.heic,Episode 2/IMG_6303.heic,Episode 2/IMG_6304.heic,Episode 2/IMG_6305.heic,Episode 2/IMG_6402.heic,Episode 2/IMG_6403.heic,Episode 2/IMG_6404.heic,Episode 2/IMG_6426.heic,Episode 2/IMG_6427.heic,Episode 2/IMG_6428.heic,Episode 2/IMG_6429.heic,Episode 2/IMG_6430.heic,Episode 2/IMG_6443.heic,Episode 2/IMG_6444.heic,Episode 2/IMG_6530.heic,Episode 2/IMG_6778.heic,Episode 2/IMG_6779.heic,Episode 2/IMG_6810.heic,Episode 2/IMG_6940.heic,Episode 2/IMG_6941.heic,Episode 2/IMG_6942.heic,Episode 2/IMG_7168.heic,Episode 2/IMG_7230.heic,Episode 2/IMG_7232.heic,Episode 2/IMG_7394.heic,Episode 2/IMG_7407.heic
